@@ -1,0 +1,10 @@
+# fast by netflix
+DOMAIN-SUFFIX,fast.com
+
+# speedtest by Ookla
+USER-AGENT,SpeedTest*
+DOMAIN-KEYWORD,speedtest
+DOMAIN-SUFFIX,ooklaserver.net
+
+# speed test by cloudflare
+DOMAIN-SUFFIX,speed.cloudflare.com
