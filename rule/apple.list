@@ -18,12 +18,6 @@ DOMAIN,lookup-api.apple.com
 PROCESS-NAME,Dictionary
 PROCESS-NAME,LookupViewService
 
-# spotlight
-#PROCESS-NAME,Spotlight
-
-# stocks
-PROCESS-NAME,Stocks
-
 # apple proxy
 DOMAIN,developer.apple.com
 DOMAIN-SUFFIX,digicert.com
