@@ -19,7 +19,7 @@ PROCESS-NAME,Dictionary
 PROCESS-NAME,LookupViewService
 
 # spotlight
-PROCESS-NAME,Spotlight
+#PROCESS-NAME,Spotlight
 
 # stocks
 PROCESS-NAME,Stocks
