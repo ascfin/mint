@@ -1,0 +1,14 @@
+# apple news maps
+DOMAIN-SUFFIX,ls.apple.com
+PROCESS-NAME,News
+USER-AGENT,AppleNews*
+USER-AGENT,News*
+DOMAIN,apple.comscoreresearch.com
+
+# apple tv
+DOMAIN,np-edge.itunes.apple.com
+DOMAIN,play-edge.itunes.apple.com
+DOMAIN-SUFFIX,tv.apple.com
+
+# podcasts
+USER-AGENT,Podcasts*
