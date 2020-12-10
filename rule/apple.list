@@ -15,7 +15,9 @@ USER-AGENT,Podcasts*
 
 # dictionary
 DOMAIN,lookup-api.apple.com
+PROCESS-NAME,Dictionary
 PROCESS-NAME,LookupViewService
+
 
 # apple proxy
 DOMAIN,developer.apple.com
