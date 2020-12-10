@@ -13,6 +13,10 @@ DOMAIN-SUFFIX,tv.apple.com
 # podcasts
 USER-AGENT,Podcasts*
 
+# dictionary
+DOMAIN,lookup-api.apple.com
+PROCESS-NAME,LookupViewService
+
 # apple proxy
 DOMAIN,developer.apple.com
 DOMAIN-SUFFIX,digicert.com
