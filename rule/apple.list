@@ -18,6 +18,8 @@ DOMAIN,lookup-api.apple.com
 PROCESS-NAME,Dictionary
 PROCESS-NAME,LookupViewService
 
+# spotlight
+PROCESS-NAME,Spotlight
 
 # apple proxy
 DOMAIN,developer.apple.com
