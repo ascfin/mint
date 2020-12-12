@@ -1,9 +1,9 @@
 # apple news maps
 DOMAIN-SUFFIX,ls.apple.com
-# PROCESS-NAME,News
 USER-AGENT,AppleNews*
 USER-AGENT,News*
 DOMAIN,apple.comscoreresearch.com
+DOMAIN-KEYWORD,webproxy.advp.apple
 
 # apple tv
 DOMAIN,np-edge.itunes.apple.com
@@ -21,7 +21,6 @@ PROCESS-NAME,LookupViewService
 # stocks
 USER-AGENT,Stocks*
 USER-AGENT,AppleCoreMedia*
-DOMAIN-KEYWORD,webproxy.advp.apple
 
 # apple proxy
 DOMAIN,developer.apple.com
