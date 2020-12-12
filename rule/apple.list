@@ -4,6 +4,7 @@ PROCESS-NAME,News
 USER-AGENT,AppleNews*
 USER-AGENT,News*
 DOMAIN,apple.comscoreresearch.com
+DOMAIN,c.apple.news
 
 # apple tv
 DOMAIN,np-edge.itunes.apple.com
