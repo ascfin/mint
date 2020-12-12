@@ -1,6 +1,6 @@
 # apple news maps
 DOMAIN-SUFFIX,ls.apple.com
-#PROCESS-NAME,News
+PROCESS-NAME,News
 USER-AGENT,AppleNews*
 USER-AGENT,News*
 DOMAIN,apple.comscoreresearch.com
