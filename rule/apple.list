@@ -19,7 +19,7 @@ PROCESS-NAME,Dictionary
 PROCESS-NAME,LookupViewService
 
 # stocks
-PROCESS-NAME,Stocks
+USER-AGENT,Stocks*
 
 # apple proxy
 DOMAIN,developer.apple.com
