@@ -1,6 +1,7 @@
 # fast by netflix
 DOMAIN-SUFFIX,fast.com
-DOMAIN-SUFFIX,ichnaea-web.netflix.com
+DOMAIN,ichnaea-web.netflix.com
+DOMAIN-SUFFIX,nflxvideo.net
 
 # speedtest by Ookla
 USER-AGENT,SpeedTest*
