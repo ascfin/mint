@@ -11,6 +11,7 @@ DOMAIN-SUFFIX,spotify.com
 
 # dotplayer
 USER-AGENT,DotPlayer*
+USER-AGENT,AppleCoreMedia*
 
 # abema
 USER-AGENT,AbemaTV*
