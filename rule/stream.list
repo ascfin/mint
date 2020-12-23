@@ -9,10 +9,6 @@ USER-AGENT,*Spotify*
 DOMAIN-SUFFIX,scdn.co
 DOMAIN-SUFFIX,spotify.com
 
-# dotplayer
-USER-AGENT,DotPlayer*
-USER-AGENT,AppleCoreMedia*
-
 # abema
 USER-AGENT,AbemaTV*
 DOMAIN-SUFFIX,abema.io
