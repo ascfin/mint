@@ -3,7 +3,6 @@ DOMAIN-SUFFIX,ls.apple.com
 USER-AGENT,AppleNews*
 USER-AGENT,News*
 DOMAIN,apple.comscoreresearch.com
-DOMAIN,shift.is.autonavi.com
 
 # apple tv
 DOMAIN,np-edge.itunes.apple.com
