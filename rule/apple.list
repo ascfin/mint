@@ -19,6 +19,7 @@ PROCESS-NAME,LookupViewService
 
 # stocks
 USER-AGENT,Stocks*
+USER-AGENT,AppleCoreMedia*
 
 # apple proxy
 DOMAIN,developer.apple.com
