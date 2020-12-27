@@ -42,6 +42,10 @@ DOMAIN-SUFFIX,d3c7rimkq79yfu.cloudfront.net
 DOMAIN-SUFFIX,linetv.tw
 DOMAIN-SUFFIX,profile.line-scdn.net
 
+# my video
+USER-AGENT,myVideo*
+DOMAIN-SUFFIX,myvideo.net.tw
+
 # mytv super
 USER-AGENT,mytv*
 DOMAIN-SUFFIX,mytvsuper.com
