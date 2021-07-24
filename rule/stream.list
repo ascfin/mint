@@ -64,3 +64,8 @@ DOMAIN-SUFFIX,nowe.com
 DOMAIN-SUFFIX,viu.com
 DOMAIN-SUFFIX,viu.tv
 DOMAIN-SUFFIX,viu.now.com
+
+# hongkong open tv
+USER-AGENT,HongKongOpenTV*
+DOMAIN-SUFFIX,hkopentv.com
+DOMAIN-SUFFIX,media.fantv.hk
