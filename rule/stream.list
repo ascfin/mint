@@ -65,6 +65,11 @@ DOMAIN-SUFFIX,viu.com
 DOMAIN-SUFFIX,viu.tv
 DOMAIN-SUFFIX,viu.now.com
 
+# i-cable tv
+USER-AGENT,i-CABLENews*
+DOMAIN-SUFFIX,i-cable.com
+DOMAIN-SUFFIX,gvt1.com
+
 # hongkong open tv
 USER-AGENT,HongKongOpenTV*
 DOMAIN-SUFFIX,hkopentv.com
