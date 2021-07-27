@@ -35,6 +35,7 @@ DOMAIN-SUFFIX,bbc.com
 DOMAIN-SUFFIX,bbcfmt.hs.llnwd.net
 DOMAIN-SUFFIX,bbci.co
 DOMAIN-SUFFIX,bbci.co.uk
+DOMAIN-SUFFIX,bidi.net.uk
 
 # line tv
 USER-AGENT,LINE*
