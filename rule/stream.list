@@ -75,3 +75,11 @@ DOMAIN-SUFFIX,gvt1.com
 USER-AGENT,HongKongOpenTV*
 DOMAIN-SUFFIX,hkopentv.com
 DOMAIN-SUFFIX,fantv.hk
+
+# nhk plus
+USER-AGENT,NHK*
+DOMAIN-SUFFIX,nhk.jp
+DOMAIN-SUFFIX,nhkid.jp
+DOMAIN-SUFFIX,dvr-d-main-tokyo2020-nhk.akamaized.net
+
+
