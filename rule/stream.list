@@ -78,7 +78,7 @@ DOMAIN-SUFFIX,fantv.hk
 
 # global bittrex
 USER-AGENT,Bittrex*
-DOMAIN-SUFFIX,global.bittrex.com
+DOMAIN-SUFFIX,bittrex.com
 
 # nhk
 USER-AGENT,NHK*
