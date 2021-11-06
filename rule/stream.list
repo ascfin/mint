@@ -47,6 +47,9 @@ DOMAIN-SUFFIX,profile.line-scdn.net
 USER-AGENT,myVideo*
 DOMAIN-SUFFIX,myvideo.net.tw
 
+# hkdtmb
+DOMAIN-SUFFIX,hkdtmb.com
+
 # mytv super
 USER-AGENT,mytv*
 DOMAIN-SUFFIX,mytvsuper.com
