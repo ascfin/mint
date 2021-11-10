@@ -79,10 +79,6 @@ USER-AGENT,HongKongOpenTV*
 DOMAIN-SUFFIX,hkopentv.com
 DOMAIN-SUFFIX,fantv.hk
 
-# global bittrex
-USER-AGENT,Bittrex*
-DOMAIN-SUFFIX,bittrex.com
-
 # nhk
 USER-AGENT,NHK*
 DOMAIN-SUFFIX,nhk.jp
