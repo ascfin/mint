@@ -1,0 +1,7 @@
+# binance
+USER-AGENT,Binance*
+DOMAIN-SUFFIX,binance.com
+
+# global bittrex
+USER-AGENT,Bittrex*
+DOMAIN-SUFFIX,bittrex.com
