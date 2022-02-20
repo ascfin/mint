@@ -5,8 +5,8 @@ http://39.136.66.40/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226024/1/ind
 http://39.135.138.58:18890/TVOD/88888888/224/3221225706/index.m3u8
 #EXTINF: -1 tvg-id="7249" group-title="olympics", CCTV16 25M2160PHEVC
 http://39.136.66.40/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226283/1/index.m3u8?fmt=ts2hls
-#EXTINF: -1 tvg-id="7249" group-title="olympics", CCTV16-4K 34M2160PHDR
-http://ott.js.chinamobile.com/TVOD/3/224/3221228127/index.m3u8
+#EXTINF: -1 tvg-id="7249" group-title="olympics", CCTV16-4K 30M2160PHDR
+http://39.134.66.2/PLTV/88888888/224/3221225655/index.m3u8
 #EXTINF: -1 tvg-id="142" group-title="ph", 鳳凰衛視資訊台
 http://iptv.tvfix.org/hls/fhzx.m3u8
 #EXTINF: -1 tvg-id="141" group-title="ph", 鳳凰衛視中文台
@@ -63,6 +63,10 @@ https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_p
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
 #EXTINF: -1 group-title="fashion", FASHIONTV MIDNIGHT SECRET
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+#EXTINF: -1 group-title="fashion", Jasmin TV
+http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
+#EXTINF: -1 group-title="fashion", SOCHI
+http://sochi.camera:8080/cam_359/tracks-v1a1/index.m3u8
 #EXTINF: -1 tvg-id="691" group-title="fish", National Geographic
 http://iptv.tvfix.org/hls/natlgeo.m3u8
 #EXTINF: -1 tvg-id="427" group-title="fish", National Geographic Wild HD
@@ -115,7 +119,7 @@ https://admdn3ta.cdn.mangomolo.com/emarat/smil:emarat.stream.smil/chunklist_b400
 https://dmisvthvll.cdn.mgmlcdn.com/events/smil:events.smil/playlist.m3u8
 #EXTINF: -1 group-title="dubai", DUBAI RACING 2
 https://dmithrvll.cdn.mgmlcdn.com/dubairacing/smil:dubairacing.smil/playlist.m3u8
-#EXTINF: -1 tvg-id="106" group-title="cctv", CCTV 4K
+#EXTINF: -1 group-title="cctv", 純享4K
 http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8
 #EXTINF: -1 tvg-id="1" group-title="cctv", CCTV-1综合
 http://39.136.66.40/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225777/1/index.m3u8?fmt=ts2hls
@@ -191,10 +195,16 @@ http://211.23.114.106:8562/http/116.50.42.19:8081/hls/68/810/ch30.m3u8
 http://211.23.114.106:8533/http/60.251.39.91:8081/hls/69/811/ch33.m3u8
 #EXTINF: -1 tvg-id="6044" group-title="taiwan", 緯來綜合
 http://211.23.114.106:8518/http/61.221.81.94:8088/hls/68/810/ch32.m3u8
+#EXTINF: -1 group-title="taiwan", momo綜合台
+http://58.99.33.16:1935/liveedge17/live_075_3.stream/chunklist.m3u8
 #EXTINF: -1 tvg-id="6050" group-title="taiwan", 東森綜合
 http://211.23.114.106:8524/http/60.251.39.91:8081/hls/63/805/ch12.m3u8
+#EXTINF: -1 tvg-id="6043" group-title="taiwan", 東森幼幼
+http://211.23.114.106:8515/http/61.221.81.94:8088/hls/63/805/ch09.m3u8
 #EXTINF: -1 tvg-id="6054" group-title="taiwan", 中天綜合
 http://211.23.114.106:8526/http/60.251.39.91:8081/hls/67/809/ch25.m3u8
+#EXTINF: -1 tvg-id="6057" group-title="taiwan", 中天娛樂
+http://211.23.114.106:8527/http/60.251.39.91:8081/hls/67/809/ch26.m3u8
 #EXTINF: -1 tvg-id="6046" group-title="taiwan", 八大綜合台
 http://211.23.114.106:8520/http/61.221.81.94:8088/hls/66/808/ch21.m3u8
 #EXTINF: -1 tvg-id="6045" group-title="taiwan", 八大第一台
