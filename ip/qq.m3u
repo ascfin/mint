@@ -46,13 +46,13 @@ http://iptv.tvfix.org/hls/viutv.m3u8
 #EXTINF: -1 group-title="viu", ViuTV Six
 http://iptv.tvfix.org/hls/viutv6.m3u8
 #EXTINF: -1 tvg-id="7122" group-title="i-cable", 有線新聞台
-http://livetv.dnsfor.me/channel.5.m3u8
+http://livetv.dnsfor.me:80/channel.5.m3u8
 #EXTINF: -1 tvg-id="7119" group-title="i-cable", 有線財經資訊台
-http://livetv.dnsfor.me/channel.6.m3u8
+http://livetv.dnsfor.me:80/channel.6.m3u8
 #EXTINF: -1 group-title="now", now新聞台
 http://livetv.dnsfor.me:80/channel.4.m3u8
 #EXTINF: -1 group-title="now", now SPORTS PRIME
-http://ewcdnsite08.nowe.com/session/09-b19c6098c01a7a7d1a2a5cfb0f54e/Content/HLS/LIVE/Channel(HLS_CH630)/Stream(03)/index.m3u8
+http://livetv.dnsfor.me:80/channel.12.m3u8
 #EXTINF: -1 group-title="fashion", World Fashion Channel
 https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist_hdhigh.m3u8
 #EXTINF: -1 group-title="fashion", HD FASHION & LIFESTYLE
@@ -176,7 +176,7 @@ http://iptv.tvfix.org/hls/ztxw.m3u8
 #EXTINF: -1 tvg-id="6069" group-title="taiwan", 東森新聞
 http://iptv.tvfix.org/hls/dsxw.m3u8
 #EXTINF: -1 tvg-id="6067" group-title="taiwan", 壹新聞
-http://211.23.114.106:8548/http/116.50.42.19:8081/hls/66/808/ch24.m3u8
+http://stream.nexttv.com.tw/n001/playlist.m3u8
 #EXTINF: -1 tvg-id="7135" group-title="taiwan", 民視 HD
 http://211.23.114.106:8504/http/61.221.81.94:8088/hls/73/815/ch49.m3u8
 #EXTINF: -1 tvg-id="6026" group-title="taiwan", 台視 HD
