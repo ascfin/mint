@@ -7,14 +7,6 @@ http://39.135.138.58:18890/TVOD/88888888/224/3221225706/index.m3u8
 http://39.136.66.40/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226283/1/index.m3u8?fmt=ts2hls
 #EXTINF: -1 tvg-id="7249" group-title="olympics", CCTV16-4K 34M2160PHDR
 http://ott.js.chinamobile.com/TVOD/3/224/3221228127/index.m3u8
-#EXTINF: -1 group-title="olympics", 咪咕视频 冬奥0
-http://39.134.66.66/PLTV/88888888/224/3221225620/index.m3u8
-#EXTINF: -1 group-title="olympics", 咪咕视频 冬奥9
-http://39.134.66.66/PLTV/88888888/224/3221225613/index.m3u8
-#EXTINF: -1 group-title="olympics", 咪咕视频
-http://39.134.66.66/PLTV/88888888/224/3221225619/index.m3u8
-#EXTINF: -1 group-title="olympics", 咪咕视频 NBA
-http://39.134.66.66/PLTV/88888888/224/3221225617/index.m3u8
 #EXTINF: -1 tvg-id="142" group-title="ph", 鳳凰衛視資訊台
 http://iptv.tvfix.org/hls/fhzx.m3u8
 #EXTINF: -1 tvg-id="141" group-title="ph", 鳳凰衛視中文台
@@ -53,14 +45,24 @@ http://iptv.tvfix.org/hls/earth.m3u8
 http://iptv.tvfix.org/hls/viutv.m3u8
 #EXTINF: -1 group-title="viu", ViuTV Six
 http://iptv.tvfix.org/hls/viutv6.m3u8
-#EXTINF: -1 tvg-id="7122" group-title="i-cable", 有線新聞
-https://api.leonardpark.dev/live/icable/109
-#EXTINF: -1 tvg-id="7119" group-title="i-cable", 有線財經
-https://api.leonardpark.dev/live/icable/108
+#EXTINF: -1 tvg-id="7122" group-title="i-cable", 有線新聞台
+http://livetv.dnsfor.me/channel.5.m3u8
+#EXTINF: -1 tvg-id="7119" group-title="i-cable", 有線財經資訊台
+http://livetv.dnsfor.me/channel.6.m3u8
+#EXTINF: -1 group-title="now", now新聞台
+http://livetv.dnsfor.me:80/channel.4.m3u8
+#EXTINF: -1 group-title="now", now SPORTS PRIME
+http://ewcdnsite08.nowe.com/session/09-b19c6098c01a7a7d1a2a5cfb0f54e/Content/HLS/LIVE/Channel(HLS_CH630)/Stream(03)/index.m3u8
 #EXTINF: -1 group-title="fashion", World Fashion Channel
 https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist_hdhigh.m3u8
 #EXTINF: -1 group-title="fashion", HD FASHION & LIFESTYLE
 http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
+#EXTINF: -1 tvg-id="701" group-title="fashion", FASHIONTV
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+#EXTINF: -1 group-title="fashion", FASHIONTV PARIS
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+#EXTINF: -1 group-title="fashion", FASHIONTV MIDNIGHT SECRET
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
 #EXTINF: -1 tvg-id="691" group-title="fish", National Geographic
 http://iptv.tvfix.org/hls/natlgeo.m3u8
 #EXTINF: -1 tvg-id="427" group-title="fish", National Geographic Wild HD
@@ -89,7 +91,7 @@ https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/C
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF: -1 group-title="global", 俄罗斯IGITV
 http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
-#EXTINF: -1 tvg-id="543" group-title="global", 亞洲新聞台(CNA)
+#EXTINF: -1 tvg-id="6139" group-title="global", 亞洲新聞台(CNA)
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF: -1 group-title="global", France 24
 http://static.france24.com:80/live/F24_FR_HI_HLS/live_tv.m3u8
@@ -101,6 +103,8 @@ http://live.prd.go.th:1935/live/ch1_L.sdp/chunklist.m3u8
 https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
 #EXTINF: -1 group-title="global", MCOT HD
 http://mcotdigital-pnnouc.cdn.byteark.com/mcothd1080p_edge/smil:mcothd1080p.smil/chunklist.m3u8
+#EXTINF: -1 group-title="global", Bollywood HD
+https://sc.id-tv.kz/bollywood_hd_34_35.m3u8
 #EXTINF: -1 group-title="dubai", DUBAI SAMA
 https://dmieigthvll.cdn.mgmlcdn.com/samadubaiht/smil:samadubai.stream.smil/chunklist_b1600000.m3u8
 #EXTINF: -1 group-title="dubai", DUBAI ONE
