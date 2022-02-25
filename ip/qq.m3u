@@ -110,7 +110,7 @@ http://livetv.dnsfor.me:80/channel.12.m3u8
 #EXTINF: -1 group-title="global", 日本天気予报
 https://movie.mcas.jp/mcas/smil:wn1.smil/chunklist.m3u8
 #EXTINF: -1 group-title="global", AccuWeather Now
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/playlist.m3u8
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/ee16849c-1213-4f5b-96e7-200fb5efe07b/5.m3u8
 #EXTINF: -1 tvg-id="6139" group-title="global", CNA (亞洲新聞台)
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF: -1 group-title="global", 日テレNEWS24
@@ -245,6 +245,8 @@ http://211.23.114.106:8502/http/61.221.81.94:8088/hls/72/814/ch47.m3u8
 http://211.23.114.106:8503/http/61.221.81.94:8088/hls/72/814/ch48.m3u8
 #EXTINF: -1 tvg-id="6095" group-title="taiwan", 緯來日本
 http://211.23.114.106:8537/http/60.251.39.91:8081/hls/69/811/ch34.m3u8
+#EXTINF: -1 tvg-id="7170" group-title="taiwan", WAKUWAKU JAPAN
+http://211.23.114.106:8538/http/60.251.39.91:8081/hls/61/803/ch03.m3u8
 #EXTINF: -1 tvg-id="6090" group-title="taiwan", 緯來體育
 http://211.23.114.106:8563/http/59.120.8.187:8081/hls/67/809/ch28.m3u8
 #EXTINF: -1 tvg-id="6088" group-title="taiwan", 緯來育樂
@@ -283,8 +285,6 @@ http://211.23.114.106:8514/http/60.251.39.91:8081/hls/62/804/ch05.m3u8
 http://211.23.114.106:8553/http/116.50.42.19:8081/hls/62/804/ch07.m3u8
 #EXTINF: -1 tvg-id="6027" group-title="taiwan", 大愛一台
 http://211.23.114.106:8507/http/61.221.81.94:8088/hls/73/815/ch52.m3u8
-#EXTINF: -1 tvg-id="7170" group-title="taiwan", WAKUWAKU JAPAN
-http://211.23.114.106:8538/http/60.251.39.91:8081/hls/61/803/ch03.m3u8
 #EXTINF: -1 group-title="ntd", 新唐人中國台
 https://live.ntdtv.com/cnlive900/playlist.m3u8
 #EXTINF: -1 group-title="ntd", 新唐人亞太台
