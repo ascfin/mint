@@ -117,6 +117,8 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF: -1 group-title="global", 日テレNEWS24
 https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
+#EXTINF: -1 group-title="global", ANN NEWS
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCGCZAYq5Xxojl_tSXcVJhiQ/live
 #EXTINF: -1 group-title="global", 24 Канал（烏克蘭）
 http://streamvideol1.luxnet.ua/news24/news24.stream/playlist.m3u8
 #EXTINF: -1 group-title="global", Прямий（烏克蘭新闻）
