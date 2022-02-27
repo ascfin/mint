@@ -12,7 +12,7 @@ https://dai.google.com/linear/hls/event/6RPZlzksTCyB1euPqLcBZQ/master.m3u8
 #EXTINF: -1 group-title="uhd", clarity 4k
 https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8
 #EXTINF: -1 group-title="uhd", loupe 4k
-http://d2dw21aq0j0l5c.cloudfront.net/playlist2160p.m3u8
+http://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 #EXTINF: -1 group-title="uhd", Love Nature 4K
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #EXTINF: -1 tvg-id="106" group-title="uhd", CCTV4K
@@ -39,7 +39,7 @@ https://bonappetit-samsung.amagi.tv/playlist.m3u8
 https://livecdn.fptplay.net/hda1/afchd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF: -1 tvg-id="6036" group-title="discovery", National Geographic
 http://iptv.tvfix.org/hls/natlgeo.m3u8
-#EXTINF: -1 group-title="discovery", National Geographic Abu Dubai
+#EXTINF: -1 group-title="discovery", National Geographic Abu Dhabi
 https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
 #EXTINF: -1 tvg-id="427" group-title="discovery", National Geographic Wild HD Russia
 https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
@@ -109,58 +109,58 @@ http://livetv.dnsfor.me:80/channel.6.m3u8
 http://livetv.dnsfor.me:80/channel.4.m3u8
 #EXTINF: -1 group-title="now", now SPORTS PRIME
 http://livetv.dnsfor.me:80/channel.12.m3u8
-#EXTINF: -1 group-title="global", 日本天気予报
+#EXTINF: -1 group-title="japan", 日本天気予报
 https://movie.mcas.jp/mcas/smil:wn1.smil/chunklist.m3u8
+#EXTINF: -1 tvg-id="331" group-title="japan", NHK WORLD-JAPAN
+https://nhkwlive-ojp.webcdn.stream.ne.jp/hls/live/2003459/nhkwlive-ojp/index_4M.m3u8
+#EXTINF: -1 tvg-id="6113" group-title="japan", NHK
+http://iptv.tvfix.org/hls/nhkworldpremium.m3u8
+#EXTINF: -1 group-title="japan", ANN NEWS
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=coYw-eVU0Ks
+#EXTINF: -1 group-title="japan", 日テレNEWS24
+https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
+#EXTINF: -1 tvg-id="6141" group-title="korea", arirang
+https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF: -1 tvg-id="6159" group-title="korea", tvN
+http://iptv.tvfix.org/hls/tvn.m3u8
+#EXTINF: -1 group-title="korea", KBS NEWS
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCcQTRi69dsVYHN3exePtZ1A/live
+#EXTINF: -1 group-title="korea", YTN
+https://www.youtube.com/channel/UChlgI3UHCOnwUGzWzbJ3H5w/live
+#EXTINF: -1 group-title="korea", YTN DMB
+https://www.youtube.com/channel/UC38IlqMxZ_YtFg3eSGmmJnQ/live
+#EXTINF: -1 group-title="korea", ARTE
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCPglj7zGwmOlH8_31Tpgh8Q/live
 #EXTINF: -1 group-title="global", AccuWeather Now
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/ee16849c-1213-4f5b-96e7-200fb5efe07b/5.m3u8
-#EXTINF: -1 tvg-id="6139" group-title="global", CNA (亞洲新聞台)
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF: -1 group-title="global", 日テレNEWS24
-https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
-#EXTINF: -1 group-title="global", ANN NEWS
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCGCZAYq5Xxojl_tSXcVJhiQ/live
-#EXTINF: -1 group-title="global", 24 Канал（烏克蘭）
-http://streamvideol1.luxnet.ua/news24/news24.stream/playlist.m3u8
-#EXTINF: -1 group-title="global", Прямий（烏克蘭新闻）
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCH9H_b9oJtSHBovh94yB5HA/live
-#EXTINF: -1 group-title="global", Россия 1
-https://sochi.camera:8081/cam_255/tracks-v1a1/mono.m3u8
-#EXTINF: -1 group-title="global", iz
-https://hls-igi.cdnvideo.ru/igi/igi_hq/chunklist.m3u8
 #EXTINF: -1 group-title="global", NBC News Now
 https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/master.m3u8
 #EXTINF: -1 tvg-id="730" group-title="global", DW
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF: -1 group-title="global", Yahoo! Finance
 https://yahoo-roku-us.amagi.tv/playlist.m3u8
+#EXTINF: -1 group-title="global", iz
+https://hls-igi.cdnvideo.ru/igi/igi_hq/chunklist.m3u8
+#EXTINF: -1 group-title="global", Россия 1
+https://sochi.camera:8081/cam_255/tracks-v1a1/mono.m3u8
+#EXTINF: -1 group-title="global", Прямий（烏克蘭新闻）
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCH9H_b9oJtSHBovh94yB5HA/live
+#EXTINF: -1 group-title="global", 24 Канал（烏克蘭）
+http://streamvideol1.luxnet.ua/news24/news24.stream/playlist.m3u8
 #EXTINF: -1 group-title="global", GB News
 https://live-gbnews.simplestreamcdn.com/gbnews/gbnews/bitrate1.isml/live.m3u8
 #EXTINF: -1 group-title="global", BNC
 https://bnc-roku-us.amagi.tv/playlist.m3u8
-#EXTINF: -1 group-title="global", BBC NEWS
-http://iptv.tvfix.org/hls/bbcnews.m3u8
 #EXTINF: -1 tvg-id="734" group-title="global", France 24
 http://static.france24.com:80/live/F24_EN_HI_HLS/live_tv.m3u8
-#EXTINF: -1 tvg-id="331" group-title="global", NHK WORLD-JAPAN
-https://nhkwlive-ojp.webcdn.stream.ne.jp/hls/live/2003459/nhkwlive-ojp/index_4M.m3u8
-#EXTINF: -1 tvg-id="6113" group-title="global", NHK
-http://iptv.tvfix.org/hls/nhkworldpremium.m3u8
-#EXTINF: -1 group-title="global", KBS NEWS
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCcQTRi69dsVYHN3exePtZ1A/live
-#EXTINF: -1 tvg-id="6141" group-title="global", arirang
-https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF: -1 tvg-id="6159" group-title="global", tvN
-http://iptv.tvfix.org/hls/tvn.m3u8
-#EXTINF: -1 group-title="global", YTN
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UChlgI3UHCOnwUGzWzbJ3H5w/live
-#EXTINF: -1 group-title="global", YTN DMB
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UC38IlqMxZ_YtFg3eSGmmJnQ/live
-#EXTINF: -1 group-title="global", ARTE
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCPglj7zGwmOlH8_31Tpgh8Q/live
+#EXTINF: -1 group-title="global", BBC NEWS
+http://iptv.tvfix.org/hls/bbcnews.m3u8
 #EXTINF: -1 group-title="global", Channel 4 HD
 http://45.153.35.224:8000/play/a01m
 #EXTINF: -1 group-title="global", itv
 http://45.153.35.224:8000/play/a00n
+#EXTINF: -1 tvg-id="6139" group-title="global", CNA (亞洲新聞台)
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF: -1 group-title="global", NBT曼谷頻道
 https://thainews.prd.go.th/lv/live/ch1_L.sdp/chunklist.m3u8
 #EXTINF: -1 group-title="global", Thai PBS
@@ -171,12 +171,16 @@ http://mcotdigital-pnnouc.cdn.byteark.com/mcothd1080p_edge/smil:mcothd1080p.smil
 https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
 #EXTINF: -1 group-title="global", Bloomberg Quicktake
 https://www.bloomberg.com/media-manifest/streams/qt.m3u8
-#EXTINF: -1 group-title="global", Movie Sphere
-https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF: -1 group-title="global", BLUE ANT EXTREME
 https://livecdn.fptplay.net/hda1/blueantext_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF: -1 group-title="global", Movie Sphere
+https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF: -1 group-title="global", Bollywood HD
 https://sc.id-tv.kz/bollywood_hd_34_35.m3u8
+#EXTINF: -1 group-title="ntd", 新唐人中國台
+https://live.ntdtv.com/cnlive900/playlist.m3u8
+#EXTINF: -1 group-title="ntd", 新唐人亞太台
+https://www.ntdtv.com.tw/mlt/playlist.m3u8
 #EXTINF: -1 group-title="vietnam", THVL1 HD
 https://livecdn.fptplay.net/hda1/vinhlong1_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF: -1 group-title="vietnam", THVL2 HD
@@ -185,6 +189,70 @@ https://livecdn.fptplay.net/hda2/vinhlong2_vhls.smil/chunklist_b5000000.m3u8
 https://livecdn.fptplay.net/hda2/vinhlong3_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF: -1 group-title="vietnam", HTV2 - Vie Channel
 https://livecdn.fptplay.net/hda1/htv2hd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF: -1 group-title="taiwan", TVBS亞洲台
+http://iptv.tvfix.org/hls/tvbs.m3u8
+#EXTINF: -1 tvg-id="6073" group-title="taiwan", TVBS新聞台
+http://iptv.tvfix.org/hls/tvbsnews.m3u8
+#EXTINF: -1 tvg-id="6067" group-title="taiwan", 壹新聞
+http://stream.nexttv.com.tw/n001/playlist.m3u8
+#EXTINF: -1 tvg-id="6069" group-title="taiwan", 東森新聞
+http://seb.sason.top/sc/dsxw_fhd.m3u8
+#EXTINF: -1 tvg-id="6069" group-title="taiwan", 中天新聞
+http://seb.sason.top/sc/ztxw_fhd.m3u8
+#EXTINF: -1 tvg-id="6072" group-title="taiwan", 三立新聞
+http://211.23.114.106:8543/http/60.251.39.91:8081/hls/65/807/ch18.m3u8
+#EXTINF: -1 tvg-id="7135" group-title="taiwan", 民視 HD
+http://211.23.114.106:8504/http/61.221.81.94:8088/hls/73/815/ch49.m3u8
+#EXTINF: -1 tvg-id="6026" group-title="taiwan", 台視 HD
+http://211.23.114.106:8502/http/61.221.81.94:8088/hls/72/814/ch46.m3u8
+#EXTINF: -1 tvg-id="6028" group-title="taiwan", 中視 HD
+http://211.23.114.106:8502/http/61.221.81.94:8088/hls/72/814/ch47.m3u8
+#EXTINF: -1 tvg-id="6030" group-title="taiwan", 華視 HD
+http://211.23.114.106:8503/http/61.221.81.94:8088/hls/72/814/ch48.m3u8
+#EXTINF: -1 tvg-id="7170" group-title="taiwan", WAKUWAKU JAPAN
+http://211.23.114.106:8538/http/60.251.39.91:8081/hls/61/803/ch03.m3u8
+#EXTINF: -1 tvg-id="6095" group-title="taiwan", 緯來日本
+http://211.23.114.106:8537/http/60.251.39.91:8081/hls/69/811/ch34.m3u8
+#EXTINF: -1 tvg-id="6090" group-title="taiwan", 緯來體育
+http://211.23.114.106:8563/http/59.120.8.187:8081/hls/67/809/ch28.m3u8
+#EXTINF: -1 tvg-id="6088" group-title="taiwan", 緯來育樂
+http://211.23.114.106:8562/http/116.50.42.19:8081/hls/68/810/ch30.m3u8
+#EXTINF: -1 tvg-id="6061" group-title="taiwan", 緯來戲劇
+http://211.23.114.106:8533/http/60.251.39.91:8081/hls/69/811/ch33.m3u8
+#EXTINF: -1 tvg-id="6044" group-title="taiwan", 緯來綜合
+http://211.23.114.106:8518/http/61.221.81.94:8088/hls/68/810/ch32.m3u8
+#EXTINF: -1 group-title="taiwan", momo綜合台
+http://58.99.33.16:1935/liveedge17/live_075_3.stream/chunklist.m3u8
+#EXTINF: -1 tvg-id="6043" group-title="taiwan", 東森幼幼
+http://211.23.114.106:8515/http/61.221.81.94:8088/hls/63/805/ch09.m3u8
+#EXTINF: -1 tvg-id="6050" group-title="taiwan", 東森綜合
+http://211.23.114.106:8524/http/60.251.39.91:8081/hls/63/805/ch12.m3u8
+#EXTINF: -1 tvg-id="6058" group-title="taiwan", 東森戲劇
+http://211.23.114.106:8530/http/60.251.39.91:8081/hls/64/806/ch13.m3u8
+#EXTINF: -1 tvg-id="6054" group-title="taiwan", 中天綜合
+http://211.23.114.106:8526/http/60.251.39.91:8081/hls/67/809/ch25.m3u8
+#EXTINF: -1 tvg-id="6057" group-title="taiwan", 中天娛樂
+http://211.23.114.106:8527/http/60.251.39.91:8081/hls/67/809/ch26.m3u8
+#EXTINF: -1 tvg-id="6045" group-title="taiwan", 八大第一台
+http://211.23.114.106:8536/http/61.221.81.94:8088/hls/66/808/ch22.m3u8
+#EXTINF: -1 tvg-id="6046" group-title="taiwan", 八大綜合台
+http://211.23.114.106:8520/http/61.221.81.94:8088/hls/66/808/ch21.m3u8
+#EXTINF: -1 tvg-id="6059" group-title="taiwan", 八大戲劇台
+http://211.23.114.106:8531/http/60.251.39.91:8081/hls/66/808/ch23.m3u8
+#EXTINF: -1 tvg-id="6059" group-title="taiwan", 三立台灣台
+http://211.23.114.106:8521/http/60.251.39.91:8081/hls/65/807/ch20.m3u8
+#EXTINF: -1 tvg-id="6048" group-title="taiwan", 三立都會台
+http://211.23.114.106:8522/http/60.251.39.91:8081/hls/65/807/ch19.m3u8
+#EXTINF: -1 tvg-id="6049" group-title="taiwan", 衛視中文台
+http://211.23.114.106:8514/http/60.251.39.91:8081/hls/62/804/ch05.m3u8
+#EXTINF: -1 tvg-id="6079" group-title="taiwan", 衛視電影台
+http://211.23.114.106:8553/http/116.50.42.19:8081/hls/62/804/ch07.m3u8
+#EXTINF: -1 tvg-id="6027" group-title="taiwan", 大愛一臺
+http://211.23.114.106:8507/http/61.221.81.94:8088/hls/73/815/ch52.m3u8
+#EXTINF: -1 tvg-id="6142" group-title="taiwan", 大愛二臺
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UClrEYreVkBee7ZQYei_6Jqg/live
+#EXTINF: -1 tvg-id="6121" group-title="taiwan", 華藏衛視
+http://118.163.88.61:1935/hwazanlivetv/live.stream/playlist.m3u8
 #EXTINF: -1 tvg-id="1" group-title="cctv", CCTV1综合
 http://39.136.66.40/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225777/1/index.m3u8?fmt=ts2hls
 #EXTINF: -1 tvg-id="2" group-title="cctv", CCTV2财经
@@ -241,76 +309,6 @@ http://39.136.66.40/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226207/1/ind
 http://iptv.tvfix.org/hls/cgtnhd.m3u8
 #EXTINF: -1 tvg-id="891" group-title="cctv", CGTN纪录
 http://iptv.tvfix.org/hls/cgtndochd.m3u8
-#EXTINF: -1 group-title="taiwan", TVBS亞洲台
-http://iptv.tvfix.org/hls/tvbs.m3u8
-#EXTINF: -1 tvg-id="6073" group-title="taiwan", TVBS新聞台
-http://iptv.tvfix.org/hls/tvbsnews.m3u8
-#EXTINF: -1 tvg-id="6067" group-title="taiwan", 壹新聞
-http://stream.nexttv.com.tw/n001/playlist.m3u8
-#EXTINF: -1 tvg-id="6069" group-title="taiwan", 東森新聞
-http://seb.sason.top/sc/dsxw_fhd.m3u8
-#EXTINF: -1 tvg-id="6069" group-title="taiwan", 中天新聞
-http://seb.sason.top/sc/ztxw_fhd.m3u8
-#EXTINF: -1 tvg-id="6072" group-title="taiwan", 三立新聞
-http://211.23.114.106:8543/http/60.251.39.91:8081/hls/65/807/ch18.m3u8
-#EXTINF: -1 tvg-id="7135" group-title="taiwan", 民視 HD
-http://211.23.114.106:8504/http/61.221.81.94:8088/hls/73/815/ch49.m3u8
-#EXTINF: -1 tvg-id="6026" group-title="taiwan", 台視 HD
-http://211.23.114.106:8502/http/61.221.81.94:8088/hls/72/814/ch46.m3u8
-#EXTINF: -1 tvg-id="6028" group-title="taiwan", 中視 HD
-http://211.23.114.106:8502/http/61.221.81.94:8088/hls/72/814/ch47.m3u8
-#EXTINF: -1 tvg-id="6030" group-title="taiwan", 華視 HD
-http://211.23.114.106:8503/http/61.221.81.94:8088/hls/72/814/ch48.m3u8
-#EXTINF: -1 tvg-id="6095" group-title="taiwan", 緯來日本
-http://211.23.114.106:8537/http/60.251.39.91:8081/hls/69/811/ch34.m3u8
-#EXTINF: -1 tvg-id="7170" group-title="taiwan", WAKUWAKU JAPAN
-http://211.23.114.106:8538/http/60.251.39.91:8081/hls/61/803/ch03.m3u8
-#EXTINF: -1 tvg-id="6090" group-title="taiwan", 緯來體育
-http://211.23.114.106:8563/http/59.120.8.187:8081/hls/67/809/ch28.m3u8
-#EXTINF: -1 tvg-id="6088" group-title="taiwan", 緯來育樂
-http://211.23.114.106:8562/http/116.50.42.19:8081/hls/68/810/ch30.m3u8
-#EXTINF: -1 tvg-id="6061" group-title="taiwan", 緯來戲劇
-http://211.23.114.106:8533/http/60.251.39.91:8081/hls/69/811/ch33.m3u8
-#EXTINF: -1 tvg-id="6044" group-title="taiwan", 緯來綜合
-http://211.23.114.106:8518/http/61.221.81.94:8088/hls/68/810/ch32.m3u8
-#EXTINF: -1 group-title="taiwan", momo綜合台
-http://58.99.33.16:1935/liveedge17/live_075_3.stream/chunklist.m3u8
-#EXTINF: -1 tvg-id="6043" group-title="taiwan", 東森幼幼
-http://211.23.114.106:8515/http/61.221.81.94:8088/hls/63/805/ch09.m3u8
-#EXTINF: -1 tvg-id="6050" group-title="taiwan", 東森綜合
-http://211.23.114.106:8524/http/60.251.39.91:8081/hls/63/805/ch12.m3u8
-#EXTINF: -1 tvg-id="6051" group-title="taiwan", 東森超視
-http://211.23.114.106:8525/http/60.251.39.91:8081/hls/64/806/ch14.m3u8
-#EXTINF: -1 tvg-id="6058" group-title="taiwan", 東森戲劇
-http://211.23.114.106:8530/http/60.251.39.91:8081/hls/64/806/ch13.m3u8
-#EXTINF: -1 tvg-id="6054" group-title="taiwan", 中天綜合
-http://211.23.114.106:8526/http/60.251.39.91:8081/hls/67/809/ch25.m3u8
-#EXTINF: -1 tvg-id="6057" group-title="taiwan", 中天娛樂
-http://211.23.114.106:8527/http/60.251.39.91:8081/hls/67/809/ch26.m3u8
-#EXTINF: -1 tvg-id="6045" group-title="taiwan", 八大第一台
-http://211.23.114.106:8536/http/61.221.81.94:8088/hls/66/808/ch22.m3u8
-#EXTINF: -1 tvg-id="6046" group-title="taiwan", 八大綜合台
-http://211.23.114.106:8520/http/61.221.81.94:8088/hls/66/808/ch21.m3u8
-#EXTINF: -1 tvg-id="6059" group-title="taiwan", 八大戲劇台
-http://211.23.114.106:8531/http/60.251.39.91:8081/hls/66/808/ch23.m3u8
-#EXTINF: -1 tvg-id="6059" group-title="taiwan", 三立台灣台
-http://211.23.114.106:8521/http/60.251.39.91:8081/hls/65/807/ch20.m3u8
-#EXTINF: -1 tvg-id="6048" group-title="taiwan", 三立都會台
-http://211.23.114.106:8522/http/60.251.39.91:8081/hls/65/807/ch19.m3u8
-#EXTINF: -1 tvg-id="6049" group-title="taiwan", 衛視中文台
-http://211.23.114.106:8514/http/60.251.39.91:8081/hls/62/804/ch05.m3u8
-#EXTINF: -1 tvg-id="6079" group-title="taiwan", 衛視電影台
-http://211.23.114.106:8553/http/116.50.42.19:8081/hls/62/804/ch07.m3u8
-#EXTINF: -1 tvg-id="6027" group-title="taiwan", 大愛一台
-http://211.23.114.106:8507/http/61.221.81.94:8088/hls/73/815/ch52.m3u8
-#EXTINF: -1 tvg-id="6142" group-title="taiwan", 大愛二台
-https://raw.githubusercontent.com/etag2000/IPTV/YTlive/daai2.m3u8
-#EXTINF: -1 tvg-id="6121" group-title="taiwan", 華藏衛視
-http://118.163.88.61:1935/hwazanlivetv/live.stream/playlist.m3u8
-#EXTINF: -1 group-title="ntd", 新唐人中國台
-https://live.ntdtv.com/cnlive900/playlist.m3u8
-#EXTINF: -1 group-title="ntd", 新唐人亞太台
-https://www.ntdtv.com.tw/mlt/playlist.m3u8
 #EXTINF: -1 group-title="dubai", DUBAI SAMA
 https://dmieigthvll.cdn.mgmlcdn.com/samadubaiht/smil:samadubai.stream.smil/chunklist_b1600000.m3u8
 #EXTINF: -1 group-title="dubai", DUBAI ONE
