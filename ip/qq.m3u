@@ -1,9 +1,9 @@
 #EXTM3U 
-#EXTINF: -1 tvg-id="7249" group-title="uhd", CCTV16 25M2160PHEVC
+#EXTINF: -1 tvg-id="7249" group-title="uhd", CCTV16奥林匹克
 http://39.136.66.40/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226283/1/index.m3u8?fmt=ts2hls
 #EXTINF: -1 group-title="uhd", Bloomberg UHD
 https://bloomberg-bloombergtv-1.samsung.wurl.com/manifest/eb23b6661b4b9b51df70e2df164f9e3a.m3u8
-#EXTINF: -1 tvg-id="701" group-title="uhd", FashionTV UHD
+#EXTINF: -1 group-title="uhd", FashionTV UHD
 https://fash2043.cloudycdn.services/slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 #EXTINF: -1 group-title="uhd", SOCHI
 http://sochi.camera:8080/cam_359/tracks-v1a1/index.m3u8
@@ -16,14 +16,14 @@ http://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 #EXTINF: -1 group-title="uhd", Love Nature 4K
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #EXTINF: -1 tvg-id="106" group-title="uhd", CCTV4K
-http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
+https://p.ggiptv.com/v/4k.m3u8
 #EXTINF: -1 group-title="uhd", VTC13 4K
 http://vcdn1.vtc.gov.vn:1935/m_4k/smil:4k.smil/chunklist_w1787030890_b6096000_sleng.m3u8
 #EXTINF: -1 group-title="fashion", World Fashion Channel
 https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist_hdhigh.m3u8
 #EXTINF: -1 group-title="fashion", HD FASHION & LIFESTYLE
 http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
-#EXTINF: -1 group-title="fashion", FASHIONTV PG13
+#EXTINF: -1 tvg-id="701" group-title="fashion", FASHIONTV PG13
 https://fash1043.cloudycdn.services/slive/ftv_pg13_adaptive.smil/playlist.m3u8
 #EXTINF: -1 group-title="fashion", FASHIONTV PARIS
 http://fash1043.cloudycdn.services/slive/ftv_paris_adaptive.smil/playlist.m3u8
@@ -37,15 +37,19 @@ https://ft-ifood-roku.amagi.tv/playlist1080p.m3u8
 https://bonappetit-samsung.amagi.tv/playlist.m3u8
 #EXTINF: -1 group-title="food", asian food network
 https://livecdn.fptplay.net/hda1/afchd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF: -1 tvg-id="6036" group-title="discovery", National Geographic
-http://iptv.tvfix.org/hls/natlgeo.m3u8
 #EXTINF: -1 group-title="discovery", National Geographic Abu Dhabi
 https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
-#EXTINF: -1 tvg-id="427" group-title="discovery", National Geographic Wild HD Russia
+#EXTINF: -1 tvg-id="6036" group-title="discovery", National Geographic HD Russia
+https://sc.id-tv.kz/NatGeogHD_34_35.m3u8
+#EXTINF: -1 group-title="discovery", National Geographic Wild HD Russia
 https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
+#EXTINF: -1 tvg-id="6036" group-title="discovery", National Geographic HD
+https://livecdn.fptplay.net/hda2/natgeohd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF: -1 tvg-id="6189" group-title="discovery", BBC earth
+https://livecdn.fptplay.net/hda2/bbcearth_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF: -1 tvg-id="6037" group-title="discovery", Discovery
 http://iptv.tvfix.org/hls/discovery.m3u8
-#EXTINF: -1 group-title="discovery", Discovery asia
+#EXTINF: -1 tvg-id="6166" group-title="discovery", Discovery asia
 https://livecdn.fptplay.net/hda2/discoveryasia_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF: -1 tvg-id="6039" group-title="discovery", animal planet
 http://iptv.tvfix.org/hls/animal.m3u8
@@ -87,7 +91,7 @@ http://iptv.tvfix.org/hls/pearl.m3u8
 http://iptv.tvfix.org/hls/finance.m3u8
 #EXTINF: -1 group-title="tvb", Hands Up Channel
 http://iptv.tvfix.org/hls/kid.m3u8
-#EXTINF: -1 tvg-id="7238" group-title="tvb", animax
+#EXTINF: -1 tvg-id="7238" group-title="tvb", ANIMAX
 http://iptv.tvfix.org/hls/animax.m3u8
 #EXTINF: -1 tvg-id="131" group-title="tvb", TVB星河
 http://iptv.tvfix.org/hls/tvbxh.m3u8
@@ -117,70 +121,24 @@ https://nhkwlive-ojp.webcdn.stream.ne.jp/hls/live/2003459/nhkwlive-ojp/index_4M.
 http://iptv.tvfix.org/hls/nhkworldpremium.m3u8
 #EXTINF: -1 group-title="japan", ANN NEWS
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=coYw-eVU0Ks
-#EXTINF: -1 group-title="japan", 日テレNEWS24
-https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
+#EXTINF: -1 group-title="japan", TBS NEWS
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UC6AG81pAkf6Lbi_1VC5NmPA/live
 #EXTINF: -1 tvg-id="6141" group-title="korea", arirang
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF: -1 tvg-id="6159" group-title="korea", tvN
 http://iptv.tvfix.org/hls/tvn.m3u8
+#EXTINF: -1 group-title="korea", MBC
+http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
 #EXTINF: -1 group-title="korea", KBS NEWS
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCcQTRi69dsVYHN3exePtZ1A/live
+#EXTINF: -1 group-title="korea", KBS WORLD
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UC5BMQOsAB8hKUyHu9KI6yig/live
 #EXTINF: -1 group-title="korea", YTN
-https://www.youtube.com/channel/UChlgI3UHCOnwUGzWzbJ3H5w/live
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UChlgI3UHCOnwUGzWzbJ3H5w/live
 #EXTINF: -1 group-title="korea", YTN DMB
-https://www.youtube.com/channel/UC38IlqMxZ_YtFg3eSGmmJnQ/live
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UC38IlqMxZ_YtFg3eSGmmJnQ/live
 #EXTINF: -1 group-title="korea", ARTE
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCPglj7zGwmOlH8_31Tpgh8Q/live
-#EXTINF: -1 group-title="global", AccuWeather Now
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/ee16849c-1213-4f5b-96e7-200fb5efe07b/5.m3u8
-#EXTINF: -1 group-title="global", NBC News Now
-https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/master.m3u8
-#EXTINF: -1 tvg-id="730" group-title="global", DW
-https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
-#EXTINF: -1 group-title="global", Yahoo! Finance
-https://yahoo-roku-us.amagi.tv/playlist.m3u8
-#EXTINF: -1 group-title="global", iz
-https://hls-igi.cdnvideo.ru/igi/igi_hq/chunklist.m3u8
-#EXTINF: -1 group-title="global", Россия 1
-https://sochi.camera:8081/cam_255/tracks-v1a1/mono.m3u8
-#EXTINF: -1 group-title="global", Прямий（烏克蘭新闻）
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCH9H_b9oJtSHBovh94yB5HA/live
-#EXTINF: -1 group-title="global", 24 Канал（烏克蘭）
-http://streamvideol1.luxnet.ua/news24/news24.stream/playlist.m3u8
-#EXTINF: -1 group-title="global", GB News
-https://live-gbnews.simplestreamcdn.com/gbnews/gbnews/bitrate1.isml/live.m3u8
-#EXTINF: -1 group-title="global", BNC
-https://bnc-roku-us.amagi.tv/playlist.m3u8
-#EXTINF: -1 tvg-id="734" group-title="global", France 24
-http://static.france24.com:80/live/F24_EN_HI_HLS/live_tv.m3u8
-#EXTINF: -1 group-title="global", BBC NEWS
-http://iptv.tvfix.org/hls/bbcnews.m3u8
-#EXTINF: -1 group-title="global", Channel 4 HD
-http://45.153.35.224:8000/play/a01m
-#EXTINF: -1 group-title="global", itv
-http://45.153.35.224:8000/play/a00n
-#EXTINF: -1 tvg-id="6139" group-title="global", CNA (亞洲新聞台)
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF: -1 group-title="global", NBT曼谷頻道
-https://thainews.prd.go.th/lv/live/ch1_L.sdp/chunklist.m3u8
-#EXTINF: -1 group-title="global", Thai PBS
-https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
-#EXTINF: -1 group-title="global", MCOT HD
-http://mcotdigital-pnnouc.cdn.byteark.com/mcothd1080p_edge/smil:mcothd1080p.smil/chunklist.m3u8
-#EXTINF: -1 tvg-id="6140" group-title="global", Bloomberg
-https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
-#EXTINF: -1 group-title="global", Bloomberg Quicktake
-https://www.bloomberg.com/media-manifest/streams/qt.m3u8
-#EXTINF: -1 group-title="global", BLUE ANT EXTREME
-https://livecdn.fptplay.net/hda1/blueantext_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF: -1 group-title="global", Movie Sphere
-https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
-#EXTINF: -1 group-title="global", Bollywood HD
-https://sc.id-tv.kz/bollywood_hd_34_35.m3u8
-#EXTINF: -1 group-title="ntd", 新唐人中國台
-https://live.ntdtv.com/cnlive900/playlist.m3u8
-#EXTINF: -1 group-title="ntd", 新唐人亞太台
-https://www.ntdtv.com.tw/mlt/playlist.m3u8
 #EXTINF: -1 group-title="vietnam", THVL1 HD
 https://livecdn.fptplay.net/hda1/vinhlong1_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF: -1 group-title="vietnam", THVL2 HD
@@ -189,12 +147,76 @@ https://livecdn.fptplay.net/hda2/vinhlong2_vhls.smil/chunklist_b5000000.m3u8
 https://livecdn.fptplay.net/hda2/vinhlong3_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF: -1 group-title="vietnam", HTV2 - Vie Channel
 https://livecdn.fptplay.net/hda1/htv2hd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF: -1 group-title="global", AccuWeather Now
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/ee16849c-1213-4f5b-96e7-200fb5efe07b/5.m3u8
+#EXTINF: -1 tvg-id="6140" group-title="global", Bloomberg
+https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
+#EXTINF: -1 group-title="global", Bloomberg Quicktake
+https://www.bloomberg.com/media-manifest/streams/qt.m3u8
+#EXTINF: -1 group-title="global", Yahoo! Finance
+https://yahoo-roku-us.amagi.tv/playlist.m3u8
+#EXTINF: -1 group-title="global", NBC News Now
+https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/master.m3u8
+#EXTINF: -1 tvg-id="730" group-title="global", DW
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
+#EXTINF: -1 group-title="global", BBC NEWS
+http://iptv.tvfix.org/hls/bbcnews.m3u8
+#EXTINF: -1 group-title="global", iz
+https://hls-igi.cdnvideo.ru/igi/igi_hq/chunklist.m3u8
+#EXTINF: -1 group-title="global", Прямий（烏克蘭新闻）
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCH9H_b9oJtSHBovh94yB5HA/live
+#EXTINF: -1 group-title="global", 24 Канал（烏克蘭）
+http://streamvideol1.luxnet.ua/news24/news24.stream/playlist.m3u8
+#EXTINF: -1 group-title="global", GB News
+https://live-gbnews.simplestreamcdn.com/gbnews/gbnews/bitrate1.isml/live.m3u8
+#EXTINF: -1 tvg-id="734" group-title="global", France 24
+http://static.france24.com:80/live/F24_EN_HI_HLS/live_tv.m3u8
+#EXTINF: -1 group-title="global", BNC
+https://bnc-roku-us.amagi.tv/playlist.m3u8
+#EXTINF: -1 group-title="global", Channel 4 HD
+http://45.153.35.224:8000/play/a01m
+#EXTINF: -1 group-title="global", itv
+http://45.153.35.224:8000/play/a00n
+#EXTINF: -1 tvg-id="20" group-title="global", CGTN
+http://iptv.tvfix.org/hls/cgtnhd.m3u8
+#EXTINF: -1 tvg-id="891" group-title="global", CGTN纪录
+http://iptv.tvfix.org/hls/cgtndochd.m3u8
+#EXTINF: -1 tvg-id="6139" group-title="global", CNA (亞洲新聞台)
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF: -1 group-title="global", NBT曼谷頻道
+https://thainews.prd.go.th/lv/live/ch1_L.sdp/chunklist.m3u8
+#EXTINF: -1 group-title="global", Thai PBS
+https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
+#EXTINF: -1 group-title="global", MCOT HD
+http://mcotdigital-pnnouc.cdn.byteark.com/mcothd1080p_edge/smil:mcothd1080p.smil/chunklist.m3u8
+#EXTINF: -1 tvg-id="6182" group-title="global", BLUE ANT EXTREME
+https://livecdn.fptplay.net/hda1/blueantext_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF: -1 group-title="global", Movie Sphere
+https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF: -1 group-title="global", Bollywood HD
+https://sc.id-tv.kz/bollywood_hd_34_35.m3u8
+#EXTINF: -1 group-title="dubai", DUBAI SAMA
+https://dmieigthvll.cdn.mgmlcdn.com/samadubaiht/smil:samadubai.stream.smil/chunklist_b1600000.m3u8
+#EXTINF: -1 group-title="dubai", DUBAI ONE
+http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1800000.m3u8
+#EXTINF: -1 group-title="dubai", Emarat TV
+https://admdn3ta.cdn.mangomolo.com/emarat/smil:emarat.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+#EXTINF: -1 group-title="dubai", DUBAI RACING 1
+https://dmisvthvll.cdn.mgmlcdn.com/events/smil:events.smil/playlist.m3u8
+#EXTINF: -1 group-title="dubai", DUBAI RACING 2
+https://dmithrvll.cdn.mgmlcdn.com/dubairacing/smil:dubairacing.smil/playlist.m3u8
+#EXTINF: -1 group-title="ntd", 新唐人中國台
+https://live.ntdtv.com/cnlive900/playlist.m3u8
+#EXTINF: -1 group-title="ntd", 新唐人亞太台
+https://www.ntdtv.com.tw/mlt/playlist.m3u8
 #EXTINF: -1 group-title="taiwan", TVBS亞洲台
 http://iptv.tvfix.org/hls/tvbs.m3u8
 #EXTINF: -1 tvg-id="6073" group-title="taiwan", TVBS新聞台
 http://iptv.tvfix.org/hls/tvbsnews.m3u8
 #EXTINF: -1 tvg-id="6067" group-title="taiwan", 壹新聞
 http://stream.nexttv.com.tw/n001/playlist.m3u8
+#EXTINF: -1 tvg-id="6171" group-title="taiwan", 寰宇新聞台
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCp2f7tGJGN6R9Muxipem8Nw/live
 #EXTINF: -1 tvg-id="6069" group-title="taiwan", 東森新聞
 http://seb.sason.top/sc/dsxw_fhd.m3u8
 #EXTINF: -1 tvg-id="6069" group-title="taiwan", 中天新聞
@@ -209,6 +231,10 @@ http://211.23.114.106:8502/http/61.221.81.94:8088/hls/72/814/ch46.m3u8
 http://211.23.114.106:8502/http/61.221.81.94:8088/hls/72/814/ch47.m3u8
 #EXTINF: -1 tvg-id="6030" group-title="taiwan", 華視 HD
 http://211.23.114.106:8503/http/61.221.81.94:8088/hls/72/814/ch48.m3u8
+#EXTINF: -1 tvg-id="6054" group-title="taiwan", 中天綜合
+http://211.23.114.106:8526/http/60.251.39.91:8081/hls/67/809/ch25.m3u8
+#EXTINF: -1 tvg-id="6057" group-title="taiwan", 中天娛樂
+http://211.23.114.106:8527/http/60.251.39.91:8081/hls/67/809/ch26.m3u8
 #EXTINF: -1 tvg-id="7170" group-title="taiwan", WAKUWAKU JAPAN
 http://211.23.114.106:8538/http/60.251.39.91:8081/hls/61/803/ch03.m3u8
 #EXTINF: -1 tvg-id="6095" group-title="taiwan", 緯來日本
@@ -229,10 +255,10 @@ http://211.23.114.106:8515/http/61.221.81.94:8088/hls/63/805/ch09.m3u8
 http://211.23.114.106:8524/http/60.251.39.91:8081/hls/63/805/ch12.m3u8
 #EXTINF: -1 tvg-id="6058" group-title="taiwan", 東森戲劇
 http://211.23.114.106:8530/http/60.251.39.91:8081/hls/64/806/ch13.m3u8
-#EXTINF: -1 tvg-id="6054" group-title="taiwan", 中天綜合
-http://211.23.114.106:8526/http/60.251.39.91:8081/hls/67/809/ch25.m3u8
-#EXTINF: -1 tvg-id="6057" group-title="taiwan", 中天娛樂
-http://211.23.114.106:8527/http/60.251.39.91:8081/hls/67/809/ch26.m3u8
+#EXTINF: -1 tvg-id="6049" group-title="taiwan", 衛視中文台
+http://211.23.114.106:8514/http/60.251.39.91:8081/hls/62/804/ch05.m3u8
+#EXTINF: -1 tvg-id="6079" group-title="taiwan", 衛視電影台
+http://211.23.114.106:8553/http/116.50.42.19:8081/hls/62/804/ch07.m3u8
 #EXTINF: -1 tvg-id="6045" group-title="taiwan", 八大第一台
 http://211.23.114.106:8536/http/61.221.81.94:8088/hls/66/808/ch22.m3u8
 #EXTINF: -1 tvg-id="6046" group-title="taiwan", 八大綜合台
@@ -243,10 +269,6 @@ http://211.23.114.106:8531/http/60.251.39.91:8081/hls/66/808/ch23.m3u8
 http://211.23.114.106:8521/http/60.251.39.91:8081/hls/65/807/ch20.m3u8
 #EXTINF: -1 tvg-id="6048" group-title="taiwan", 三立都會台
 http://211.23.114.106:8522/http/60.251.39.91:8081/hls/65/807/ch19.m3u8
-#EXTINF: -1 tvg-id="6049" group-title="taiwan", 衛視中文台
-http://211.23.114.106:8514/http/60.251.39.91:8081/hls/62/804/ch05.m3u8
-#EXTINF: -1 tvg-id="6079" group-title="taiwan", 衛視電影台
-http://211.23.114.106:8553/http/116.50.42.19:8081/hls/62/804/ch07.m3u8
 #EXTINF: -1 tvg-id="6027" group-title="taiwan", 大愛一臺
 http://211.23.114.106:8507/http/61.221.81.94:8088/hls/73/815/ch52.m3u8
 #EXTINF: -1 tvg-id="6142" group-title="taiwan", 大愛二臺
@@ -305,17 +327,3 @@ http://39.136.66.40/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226216/1/ind
 http://39.136.66.40/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226214/1/index.m3u8?fmt=ts2hls
 #EXTINF: -1 tvg-id="1981" group-title="cctv", 生活时尚
 http://39.136.66.40/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226207/1/index.m3u8?fmt=ts2hls
-#EXTINF: -1 tvg-id="20" group-title="cctv", CGTN
-http://iptv.tvfix.org/hls/cgtnhd.m3u8
-#EXTINF: -1 tvg-id="891" group-title="cctv", CGTN纪录
-http://iptv.tvfix.org/hls/cgtndochd.m3u8
-#EXTINF: -1 group-title="dubai", DUBAI SAMA
-https://dmieigthvll.cdn.mgmlcdn.com/samadubaiht/smil:samadubai.stream.smil/chunklist_b1600000.m3u8
-#EXTINF: -1 group-title="dubai", DUBAI ONE
-http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1800000.m3u8
-#EXTINF: -1 group-title="dubai", Emarat TV
-https://admdn3ta.cdn.mangomolo.com/emarat/smil:emarat.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
-#EXTINF: -1 group-title="dubai", DUBAI RACING 1
-https://dmisvthvll.cdn.mgmlcdn.com/events/smil:events.smil/playlist.m3u8
-#EXTINF: -1 group-title="dubai", DUBAI RACING 2
-https://dmithrvll.cdn.mgmlcdn.com/dubairacing/smil:dubairacing.smil/playlist.m3u8
