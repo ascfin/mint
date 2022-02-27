@@ -113,6 +113,8 @@ http://livetv.dnsfor.me:80/channel.6.m3u8
 http://livetv.dnsfor.me:80/channel.4.m3u8
 #EXTINF: -1 group-title="now", now SPORTS PRIME
 http://livetv.dnsfor.me:80/channel.12.m3u8
+#EXTINF: -1 tvg-id="7215" group-title="now", EUROSPORT 1
+http://213.151.233.20:8000/dna-6069-tv-pc/hls/4000v105.m3u8
 #EXTINF: -1 group-title="japan", 日本天気予报
 https://movie.mcas.jp/mcas/smil:wn1.smil/chunklist.m3u8
 #EXTINF: -1 tvg-id="331" group-title="japan", NHK WORLD-JAPAN
@@ -127,16 +129,14 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF: -1 tvg-id="6159" group-title="korea", tvN
 http://iptv.tvfix.org/hls/tvn.m3u8
-#EXTINF: -1 group-title="korea", MBC
-http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
+#EXTINF: -1 group-title="korea", YTN
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UChlgI3UHCOnwUGzWzbJ3H5w/live
 #EXTINF: -1 group-title="korea", KBS NEWS
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCcQTRi69dsVYHN3exePtZ1A/live
 #EXTINF: -1 group-title="korea", KBS WORLD
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UC5BMQOsAB8hKUyHu9KI6yig/live
-#EXTINF: -1 group-title="korea", YTN
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UChlgI3UHCOnwUGzWzbJ3H5w/live
-#EXTINF: -1 group-title="korea", YTN DMB
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UC38IlqMxZ_YtFg3eSGmmJnQ/live
+#EXTINF: -1 group-title="korea", KpopTV
+https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
 #EXTINF: -1 group-title="korea", ARTE
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCPglj7zGwmOlH8_31Tpgh8Q/live
 #EXTINF: -1 group-title="vietnam", THVL1 HD
