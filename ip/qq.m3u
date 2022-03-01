@@ -1,28 +1,48 @@
 #EXTM3U 
-#EXTINF: -1 tvg-id="7249" group-title="uhd", CCTV16奥林匹克
-http://39.136.66.40/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226283/1/index.m3u8?fmt=ts2hls
 #EXTINF: -1 group-title="uhd", Bloomberg UHD
 https://bloomberg-bloombergtv-1.samsung.wurl.com/manifest/eb23b6661b4b9b51df70e2df164f9e3a.m3u8
-#EXTINF: -1 group-title="uhd", FashionTV UHD
+#EXTINF: -1 group-title="uhd", FTV UHD
 https://fash2043.cloudycdn.services/slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
-#EXTINF: -1 group-title="uhd", SOCHI
+#EXTINF: -1 group-title="uhd", SOCHI LIVE HD
 http://sochi.camera:8080/cam_359/tracks-v1a1/index.m3u8
 #EXTINF: -1 group-title="uhd", STINGRAY naturescape
-https://dai.google.com/linear/hls/event/6RPZlzksTCyB1euPqLcBZQ/master.m3u8
+https://stirr.ott-channels.stingray.com/naturescape/master.m3u8
 #EXTINF: -1 group-title="uhd", clarity 4k
 https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8
 #EXTINF: -1 group-title="uhd", loupe 4k
 http://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 #EXTINF: -1 group-title="uhd", Love Nature 4K
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+#EXTINF: -1 group-title="uhd", NASA UHD
+http://30822575.russtv.net/iptv/YS896AMA7E2K8P/15239/index.m3u8
+#EXTINF: -1 group-title="uhd", Discovery Ultra
+http://30822575.russtv.net/iptv/YS896AMA7E2K8P/10048/index.m3u8
+#EXTINF: -1 group-title="uhd", MyZen TV 4K
+http://30822575.russtv.net/iptv/YS896AMA7E2K8P/5002/index.m3u8
+#EXTINF: -1 group-title="uhd", SKY HIGH NATURE 4K
+http://30822575.russtv.net/iptv/YS896AMA7E2K8P/14247/index.m3u8
+#EXTINF: -1 group-title="uhd", SKY HIGH NATURE 4K HDR
+http://30822575.russtv.net/iptv/YS896AMA7E2K8P/14248/index.m3u8
+#EXTINF: -1 group-title="uhd", Home 4K
+http://30822575.russtv.net/iptv/YS896AMA7E2K8P/4002/index.m3u8
+#EXTINF: -1 group-title="uhd", Наша Сибирь 4K
+http://30822575.russtv.net/iptv/YS896AMA7E2K8P/4003/index.m3u8
 #EXTINF: -1 tvg-id="106" group-title="uhd", CCTV4K
 https://p.ggiptv.com/v/4k.m3u8
 #EXTINF: -1 group-title="uhd", VTC13 4K
 http://vcdn1.vtc.gov.vn:1935/m_4k/smil:4k.smil/chunklist_w1787030890_b6096000_sleng.m3u8
+#EXTINF: -1 tvg-id="7215" group-title="uhd", EUROSPORT 4K
+http://30822575.russtv.net/iptv/YS896AMA7E2K8P/4004/index.m3u8
+#EXTINF: -1 group-title="uhd", LIBERTY аниме
+http://30822575.russtv.net/iptv/YS896AMA7E2K8P/17029/index.m3u8
+#EXTINF: -1 group-title="uhd", LIBERTY МУЛЬТ 4K
+http://30822575.russtv.net/iptv/YS896AMA7E2K8P/18051/index.m3u8
 #EXTINF: -1 group-title="fashion", World Fashion Channel
 https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist_hdhigh.m3u8
 #EXTINF: -1 group-title="fashion", HD FASHION & LIFESTYLE
 http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
+#EXTINF: -1 group-title="fashion", Fashion One FHD
+http://30822575.russtv.net/iptv/YS896AMA7E2K8P/2412/index.m3u8
 #EXTINF: -1 tvg-id="701" group-title="fashion", FASHIONTV PG13
 https://fash1043.cloudycdn.services/slive/ftv_pg13_adaptive.smil/playlist.m3u8
 #EXTINF: -1 group-title="fashion", FASHIONTV PARIS
@@ -35,24 +55,24 @@ http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
 https://ft-ifood-roku.amagi.tv/playlist1080p.m3u8
 #EXTINF: -1 group-title="food", bon appétit
 https://bonappetit-samsung.amagi.tv/playlist.m3u8
+#EXTINF: -1 group-title="food", food network
+http://30822575.russtv.net/iptv/YS896AMA7E2K8P/10026/index.m3u8
 #EXTINF: -1 group-title="food", asian food network
 https://livecdn.fptplay.net/hda1/afchd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF: -1 group-title="discovery", National Geographic Abu Dhabi
-https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
-#EXTINF: -1 tvg-id="6036" group-title="discovery", National Geographic HD Russia
-https://sc.id-tv.kz/NatGeogHD_34_35.m3u8
-#EXTINF: -1 group-title="discovery", National Geographic Wild HD Russia
-https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
-#EXTINF: -1 tvg-id="6036" group-title="discovery", National Geographic HD
-https://livecdn.fptplay.net/hda2/natgeohd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF: -1 group-title="discovery", NATIONAL GEOGRAPHIC HD
+http://30822575.russtv.net/iptv/YS896AMA7E2K8P/10023/index.m3u8
+#EXTINF: -1 group-title="discovery", NATIONAL GEOGRAPHIC WILD HD
+http://30822575.russtv.net/iptv/YS896AMA7E2K8P/10022/index.m3u8
 #EXTINF: -1 tvg-id="6189" group-title="discovery", BBC earth
 https://livecdn.fptplay.net/hda2/bbcearth_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF: -1 tvg-id="6037" group-title="discovery", Discovery
-http://iptv.tvfix.org/hls/discovery.m3u8
+#EXTINF: -1 group-title="discovery", animal planet HD
+http://30822575.russtv.net/iptv/YS896AMA7E2K8P/9016/index.m3u8
+#EXTINF: -1 group-title="discovery", Discovery HD
+http://30822575.russtv.net/iptv/YS896AMA7E2K8P/9011/index.m3u8
 #EXTINF: -1 tvg-id="6166" group-title="discovery", Discovery asia
 https://livecdn.fptplay.net/hda2/discoveryasia_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF: -1 tvg-id="6039" group-title="discovery", animal planet
-http://iptv.tvfix.org/hls/animal.m3u8
+#EXTINF: -1 group-title="discovery", Discovery Science
+http://30822575.russtv.net/iptv/YS896AMA7E2K8P/9326/index.m3u8
 #EXTINF: -1 group-title="discovery", Da Vinci Kids
 https://vips-livecdn.fptplay.net/hda2/davincihd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF: -1 group-title="discovery", People
@@ -61,10 +81,10 @@ https://peopletv-oo.akamaized.net/playlist.m3u8
 https://outsidetv-roku-us.amagi.tv/playlistR1080p.m3u8
 #EXTINF: -1 tvg-id="989" group-title="discovery", Outdoor
 https://outdoorchannel-samsungau.amagi.tv/playlist1080p.m3u8
-#EXTINF: -1 group-title="nasa", NASA 1
-https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
-#EXTINF: -1 group-title="nasa", NASA 2
-https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master_2000.m3u8
+#EXTINF: -1 group-title="discovery", travel+adventure
+http://30822575.russtv.net/iptv/YS896AMA7E2K8P/9019/index.m3u8
+#EXTINF: -1 tvg-id="6182" group-title="discovery", BLUE ANT EXTREME
+https://livecdn.fptplay.net/hda1/blueantext_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF: -1 tvg-id="142" group-title="ph", 鳳凰衛視資訊台
 http://iptv.tvfix.org/hls/fhzx.m3u8
 #EXTINF: -1 tvg-id="141" group-title="ph", 鳳凰衛視中文台
@@ -115,6 +135,10 @@ http://livetv.dnsfor.me:80/channel.4.m3u8
 http://livetv.dnsfor.me:80/channel.12.m3u8
 #EXTINF: -1 tvg-id="7215" group-title="now", EUROSPORT 1
 http://213.151.233.20:8000/dna-6069-tv-pc/hls/4000v105.m3u8
+#EXTINF: -1 group-title="now", Eurosport 1 HD
+http://30822575.russtv.net/iptv/YS896AMA7E2K8P/5075/index.m3u8
+#EXTINF: -1 group-title="now", Eurosport 2 North-East HD
+http://30822575.russtv.net/iptv/YS896AMA7E2K8P/5076/index.m3u8
 #EXTINF: -1 group-title="japan", 日本天気予报
 https://movie.mcas.jp/mcas/smil:wn1.smil/chunklist.m3u8
 #EXTINF: -1 tvg-id="331" group-title="japan", NHK WORLD-JAPAN
@@ -123,18 +147,12 @@ https://nhkwlive-ojp.webcdn.stream.ne.jp/hls/live/2003459/nhkwlive-ojp/index_4M.
 http://iptv.tvfix.org/hls/nhkworldpremium.m3u8
 #EXTINF: -1 group-title="japan", ANN NEWS
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=coYw-eVU0Ks
-#EXTINF: -1 group-title="japan", TBS NEWS
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UC6AG81pAkf6Lbi_1VC5NmPA/live
 #EXTINF: -1 tvg-id="6141" group-title="korea", arirang
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF: -1 tvg-id="6159" group-title="korea", tvN
 http://iptv.tvfix.org/hls/tvn.m3u8
-#EXTINF: -1 group-title="korea", YTN
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UChlgI3UHCOnwUGzWzbJ3H5w/live
 #EXTINF: -1 group-title="korea", KBS NEWS
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCcQTRi69dsVYHN3exePtZ1A/live
-#EXTINF: -1 group-title="korea", KBS WORLD
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UC5BMQOsAB8hKUyHu9KI6yig/live
 #EXTINF: -1 group-title="korea", KpopTV
 https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
 #EXTINF: -1 group-title="korea", ARTE
@@ -147,40 +165,42 @@ https://livecdn.fptplay.net/hda2/vinhlong2_vhls.smil/chunklist_b5000000.m3u8
 https://livecdn.fptplay.net/hda2/vinhlong3_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF: -1 group-title="vietnam", HTV2 - Vie Channel
 https://livecdn.fptplay.net/hda1/htv2hd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF: -1 group-title="global", AccuWeather Now
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/ee16849c-1213-4f5b-96e7-200fb5efe07b/5.m3u8
-#EXTINF: -1 tvg-id="6140" group-title="global", Bloomberg
-https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
-#EXTINF: -1 group-title="global", Bloomberg Quicktake
-https://www.bloomberg.com/media-manifest/streams/qt.m3u8
-#EXTINF: -1 group-title="global", Yahoo! Finance
-https://yahoo-roku-us.amagi.tv/playlist.m3u8
+#EXTINF: -1 group-title="russia", iz
+https://hls-igi.cdnvideo.ru/igi/igi_hq/chunklist.m3u8
+#EXTINF: -1 group-title="russia", НТВ HD
+http://30822575.russtv.net/iptv/YS896AMA7E2K8P/9028/index.m3u8
+#EXTINF: -1 group-title="russia", Россия 1 HD
+http://30822575.russtv.net/iptv/YS896AMA7E2K8P/2409/index.m3u8
+#EXTINF: -1 group-title="russia", Первый HD
+http://30822575.russtv.net/iptv/YS896AMA7E2K8P/7253/index.m3u8
+#EXTINF: -1 group-title="russia", БСТ HD
+http://30822575.russtv.net/iptv/YS896AMA7E2K8P/9341/index.m3u8
+#EXTINF: -1 group-title="russia", Прямий（烏克蘭新闻）
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCH9H_b9oJtSHBovh94yB5HA/live
+#EXTINF: -1 group-title="russia", Bollywood HD
+http://30822575.russtv.net/iptv/YS896AMA7E2K8P/9225/index.m3u8
 #EXTINF: -1 group-title="global", NBC News Now
 https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/master.m3u8
 #EXTINF: -1 tvg-id="730" group-title="global", DW
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
-#EXTINF: -1 group-title="global", BBC NEWS
-http://iptv.tvfix.org/hls/bbcnews.m3u8
-#EXTINF: -1 group-title="global", iz
-https://hls-igi.cdnvideo.ru/igi/igi_hq/chunklist.m3u8
-#EXTINF: -1 group-title="global", Прямий（烏克蘭新闻）
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCH9H_b9oJtSHBovh94yB5HA/live
-#EXTINF: -1 group-title="global", 24 Канал（烏克蘭）
-http://streamvideol1.luxnet.ua/news24/news24.stream/playlist.m3u8
-#EXTINF: -1 group-title="global", GB News
-https://live-gbnews.simplestreamcdn.com/gbnews/gbnews/bitrate1.isml/live.m3u8
 #EXTINF: -1 tvg-id="734" group-title="global", France 24
 http://static.france24.com:80/live/F24_EN_HI_HLS/live_tv.m3u8
-#EXTINF: -1 group-title="global", BNC
-https://bnc-roku-us.amagi.tv/playlist.m3u8
+#EXTINF: -1 group-title="global", GB News
+https://live-gbnews.simplestreamcdn.com/gbnews/gbnews/bitrate1.isml/live.m3u8
+#EXTINF: -1 group-title="global", BBC NEWS
+http://iptv.tvfix.org/hls/bbcnews.m3u8
 #EXTINF: -1 group-title="global", Channel 4 HD
 http://45.153.35.224:8000/play/a01m
 #EXTINF: -1 group-title="global", itv
 http://45.153.35.224:8000/play/a00n
-#EXTINF: -1 tvg-id="20" group-title="global", CGTN
-http://iptv.tvfix.org/hls/cgtnhd.m3u8
-#EXTINF: -1 tvg-id="891" group-title="global", CGTN纪录
-http://iptv.tvfix.org/hls/cgtndochd.m3u8
+#EXTINF: -1 tvg-id="6140" group-title="global", Bloomberg
+https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
+#EXTINF: -1 group-title="global", AccuWeather Now
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/ee16849c-1213-4f5b-96e7-200fb5efe07b/5.m3u8
+#EXTINF: -1 group-title="global", Bloomberg Quicktake
+https://www.bloomberg.com/media-manifest/streams/qt.m3u8
+#EXTINF: -1 group-title="global", Yahoo! Finance
+https://yahoo-roku-us.amagi.tv/playlist.m3u8
 #EXTINF: -1 tvg-id="6139" group-title="global", CNA (亞洲新聞台)
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF: -1 group-title="global", NBT曼谷頻道
@@ -189,12 +209,10 @@ https://thainews.prd.go.th/lv/live/ch1_L.sdp/chunklist.m3u8
 https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
 #EXTINF: -1 group-title="global", MCOT HD
 http://mcotdigital-pnnouc.cdn.byteark.com/mcothd1080p_edge/smil:mcothd1080p.smil/chunklist.m3u8
-#EXTINF: -1 tvg-id="6182" group-title="global", BLUE ANT EXTREME
-https://livecdn.fptplay.net/hda1/blueantext_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF: -1 group-title="global", Movie Sphere
-https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
-#EXTINF: -1 group-title="global", Bollywood HD
-https://sc.id-tv.kz/bollywood_hd_34_35.m3u8
+#EXTINF: -1 tvg-id="20" group-title="global", CGTN
+http://iptv.tvfix.org/hls/cgtnhd.m3u8
+#EXTINF: -1 tvg-id="891" group-title="global", CGTN纪录
+http://iptv.tvfix.org/hls/cgtndochd.m3u8
 #EXTINF: -1 group-title="dubai", DUBAI SAMA
 https://dmieigthvll.cdn.mgmlcdn.com/samadubaiht/smil:samadubai.stream.smil/chunklist_b1600000.m3u8
 #EXTINF: -1 group-title="dubai", DUBAI ONE
@@ -219,6 +237,8 @@ http://stream.nexttv.com.tw/n001/playlist.m3u8
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCp2f7tGJGN6R9Muxipem8Nw/live
 #EXTINF: -1 tvg-id="6069" group-title="taiwan", 東森新聞
 http://seb.sason.top/sc/dsxw_fhd.m3u8
+#EXTINF: -1 tvg-id="6075" group-title="taiwan", 東森財經新聞
+http://seb.sason.top/sc/dscjxw_fhd.m3u8
 #EXTINF: -1 tvg-id="6069" group-title="taiwan", 中天新聞
 http://seb.sason.top/sc/ztxw_fhd.m3u8
 #EXTINF: -1 tvg-id="6072" group-title="taiwan", 三立新聞
@@ -274,7 +294,7 @@ http://211.23.114.106:8507/http/61.221.81.94:8088/hls/73/815/ch52.m3u8
 #EXTINF: -1 tvg-id="6142" group-title="taiwan", 大愛二臺
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UClrEYreVkBee7ZQYei_6Jqg/live
 #EXTINF: -1 tvg-id="6121" group-title="taiwan", 華藏衛視
-http://118.163.88.61:1935/hwazanlivetv/live.stream/playlist.m3u8
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCgFr9QSua--Cxx658iJqIcQ/live
 #EXTINF: -1 tvg-id="1" group-title="cctv", CCTV1综合
 http://39.136.66.40/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225777/1/index.m3u8?fmt=ts2hls
 #EXTINF: -1 tvg-id="2" group-title="cctv", CCTV2财经
