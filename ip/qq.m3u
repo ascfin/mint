@@ -17,12 +17,20 @@ https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 http://30822575.russtv.net/iptv/YS896AMA7E2K8P/15239/index.m3u8
 #EXTINF: -1 group-title="uhd", Discovery Ultra
 http://30822575.russtv.net/iptv/YS896AMA7E2K8P/10048/index.m3u8
+#EXTINF: -1 group-title="uhd", INSIGHT UHD
+http://30822575.russtv.net/iptv/YS896AMA7E2K8P/5000/index.m3u8
 #EXTINF: -1 group-title="uhd", MyZen TV 4K
 http://30822575.russtv.net/iptv/YS896AMA7E2K8P/5002/index.m3u8
 #EXTINF: -1 group-title="uhd", SKY HIGH NATURE 4K
 http://30822575.russtv.net/iptv/YS896AMA7E2K8P/14247/index.m3u8
 #EXTINF: -1 group-title="uhd", SKY HIGH NATURE 4K HDR
 http://30822575.russtv.net/iptv/YS896AMA7E2K8P/14248/index.m3u8
+#EXTINF: -1 group-title="uhd", SKY HIGH DOC UHD
+http://30822575.russtv.net/iptv/YS896AMA7E2K8P/17053/index.m3u8
+#EXTINF: -1 group-title="uhd", SKY HIGH VHS UHD
+http://30822575.russtv.net/iptv/YS896AMA7E2K8P/17058/index.m3u8
+#EXTINF: -1 group-title="uhd", SKY HIGH UHD HDR
+http://30822575.russtv.net/iptv/YS896AMA7E2K8P/17059/index.m3u8
 #EXTINF: -1 group-title="uhd", Home 4K
 http://30822575.russtv.net/iptv/YS896AMA7E2K8P/4002/index.m3u8
 #EXTINF: -1 group-title="uhd", Наша Сибирь 4K
@@ -31,18 +39,24 @@ http://30822575.russtv.net/iptv/YS896AMA7E2K8P/4003/index.m3u8
 https://p.ggiptv.com/v/4k.m3u8
 #EXTINF: -1 group-title="uhd", VTC13 4K
 http://vcdn1.vtc.gov.vn:1935/m_4k/smil:4k.smil/chunklist_w1787030890_b6096000_sleng.m3u8
+#EXTINF: -1 group-title="uhd", NBA TV
+http://84.22.33.214:80/nbatv/index.m3u8
 #EXTINF: -1 tvg-id="7215" group-title="uhd", EUROSPORT 4K
 http://30822575.russtv.net/iptv/YS896AMA7E2K8P/4004/index.m3u8
+#EXTINF: -1 group-title="uhd", Mezzo Live HD orig
+http://30822575.russtv.net/iptv/YS896AMA7E2K8P/9014/index.m3u8
+#EXTINF: -1 group-title="uhd", LIBERTY BBC
+http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/15108/index.m3u8
 #EXTINF: -1 group-title="uhd", LIBERTY аниме
 http://30822575.russtv.net/iptv/YS896AMA7E2K8P/17029/index.m3u8
 #EXTINF: -1 group-title="uhd", LIBERTY МУЛЬТ 4K
 http://30822575.russtv.net/iptv/YS896AMA7E2K8P/18051/index.m3u8
 #EXTINF: -1 group-title="fashion", World Fashion Channel
 https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist_hdhigh.m3u8
+#EXTINF: -1 group-title="fashion", FASHION & LIFESTYLE
+http://30822575.russtv.net/iptv/YS896AMA7E2K8P/10019/index.m3u8
 #EXTINF: -1 group-title="fashion", HD FASHION & LIFESTYLE
 http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
-#EXTINF: -1 group-title="fashion", Fashion One FHD
-http://30822575.russtv.net/iptv/YS896AMA7E2K8P/2412/index.m3u8
 #EXTINF: -1 tvg-id="701" group-title="fashion", FASHIONTV PG13
 https://fash1043.cloudycdn.services/slive/ftv_pg13_adaptive.smil/playlist.m3u8
 #EXTINF: -1 group-title="fashion", FASHIONTV PARIS
@@ -165,6 +179,8 @@ https://livecdn.fptplay.net/hda2/vinhlong2_vhls.smil/chunklist_b5000000.m3u8
 https://livecdn.fptplay.net/hda2/vinhlong3_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF: -1 group-title="vietnam", HTV2 - Vie Channel
 https://livecdn.fptplay.net/hda1/htv2hd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF: -1 group-title="russia", Прямий（烏克蘭新闻）
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCH9H_b9oJtSHBovh94yB5HA/live
 #EXTINF: -1 group-title="russia", iz
 https://hls-igi.cdnvideo.ru/igi/igi_hq/chunklist.m3u8
 #EXTINF: -1 group-title="russia", НТВ HD
@@ -175,8 +191,8 @@ http://30822575.russtv.net/iptv/YS896AMA7E2K8P/2409/index.m3u8
 http://30822575.russtv.net/iptv/YS896AMA7E2K8P/7253/index.m3u8
 #EXTINF: -1 group-title="russia", БСТ HD
 http://30822575.russtv.net/iptv/YS896AMA7E2K8P/9341/index.m3u8
-#EXTINF: -1 group-title="russia", Прямий（烏克蘭新闻）
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCH9H_b9oJtSHBovh94yB5HA/live
+#EXTINF: -1 group-title="russia", СТС HD
+http://30822575.russtv.net/iptv/YS896AMA7E2K8P/9000/index.m3u8
 #EXTINF: -1 group-title="russia", Bollywood HD
 http://30822575.russtv.net/iptv/YS896AMA7E2K8P/9225/index.m3u8
 #EXTINF: -1 group-title="global", NBC News Now
@@ -241,58 +257,16 @@ http://seb.sason.top/sc/dsxw_fhd.m3u8
 http://seb.sason.top/sc/dscjxw_fhd.m3u8
 #EXTINF: -1 tvg-id="6069" group-title="taiwan", 中天新聞
 http://seb.sason.top/sc/ztxw_fhd.m3u8
-#EXTINF: -1 tvg-id="6072" group-title="taiwan", 三立新聞
-http://211.23.114.106:8543/http/60.251.39.91:8081/hls/65/807/ch18.m3u8
-#EXTINF: -1 tvg-id="7135" group-title="taiwan", 民視 HD
-http://211.23.114.106:8504/http/61.221.81.94:8088/hls/73/815/ch49.m3u8
-#EXTINF: -1 tvg-id="6026" group-title="taiwan", 台視 HD
-http://211.23.114.106:8502/http/61.221.81.94:8088/hls/72/814/ch46.m3u8
-#EXTINF: -1 tvg-id="6028" group-title="taiwan", 中視 HD
-http://211.23.114.106:8502/http/61.221.81.94:8088/hls/72/814/ch47.m3u8
-#EXTINF: -1 tvg-id="6030" group-title="taiwan", 華視 HD
-http://211.23.114.106:8503/http/61.221.81.94:8088/hls/72/814/ch48.m3u8
-#EXTINF: -1 tvg-id="6054" group-title="taiwan", 中天綜合
-http://211.23.114.106:8526/http/60.251.39.91:8081/hls/67/809/ch25.m3u8
-#EXTINF: -1 tvg-id="6057" group-title="taiwan", 中天娛樂
-http://211.23.114.106:8527/http/60.251.39.91:8081/hls/67/809/ch26.m3u8
-#EXTINF: -1 tvg-id="7170" group-title="taiwan", WAKUWAKU JAPAN
-http://211.23.114.106:8538/http/60.251.39.91:8081/hls/61/803/ch03.m3u8
-#EXTINF: -1 tvg-id="6095" group-title="taiwan", 緯來日本
-http://211.23.114.106:8537/http/60.251.39.91:8081/hls/69/811/ch34.m3u8
-#EXTINF: -1 tvg-id="6090" group-title="taiwan", 緯來體育
-http://211.23.114.106:8563/http/59.120.8.187:8081/hls/67/809/ch28.m3u8
-#EXTINF: -1 tvg-id="6088" group-title="taiwan", 緯來育樂
-http://211.23.114.106:8562/http/116.50.42.19:8081/hls/68/810/ch30.m3u8
-#EXTINF: -1 tvg-id="6061" group-title="taiwan", 緯來戲劇
-http://211.23.114.106:8533/http/60.251.39.91:8081/hls/69/811/ch33.m3u8
-#EXTINF: -1 tvg-id="6044" group-title="taiwan", 緯來綜合
-http://211.23.114.106:8518/http/61.221.81.94:8088/hls/68/810/ch32.m3u8
-#EXTINF: -1 group-title="taiwan", momo綜合台
-http://58.99.33.16:1935/liveedge17/live_075_3.stream/chunklist.m3u8
-#EXTINF: -1 tvg-id="6043" group-title="taiwan", 東森幼幼
-http://211.23.114.106:8515/http/61.221.81.94:8088/hls/63/805/ch09.m3u8
-#EXTINF: -1 tvg-id="6050" group-title="taiwan", 東森綜合
-http://211.23.114.106:8524/http/60.251.39.91:8081/hls/63/805/ch12.m3u8
-#EXTINF: -1 tvg-id="6058" group-title="taiwan", 東森戲劇
-http://211.23.114.106:8530/http/60.251.39.91:8081/hls/64/806/ch13.m3u8
-#EXTINF: -1 tvg-id="6049" group-title="taiwan", 衛視中文台
-http://211.23.114.106:8514/http/60.251.39.91:8081/hls/62/804/ch05.m3u8
-#EXTINF: -1 tvg-id="6079" group-title="taiwan", 衛視電影台
-http://211.23.114.106:8553/http/116.50.42.19:8081/hls/62/804/ch07.m3u8
-#EXTINF: -1 tvg-id="6045" group-title="taiwan", 八大第一台
-http://211.23.114.106:8536/http/61.221.81.94:8088/hls/66/808/ch22.m3u8
-#EXTINF: -1 tvg-id="6046" group-title="taiwan", 八大綜合台
-http://211.23.114.106:8520/http/61.221.81.94:8088/hls/66/808/ch21.m3u8
-#EXTINF: -1 tvg-id="6059" group-title="taiwan", 八大戲劇台
-http://211.23.114.106:8531/http/60.251.39.91:8081/hls/66/808/ch23.m3u8
+#EXTINF: -1 group-title="taiwan", 三立iNEWS新聞台
+http://seb.sason.top/sc/slinews_fhd.m3u8
 #EXTINF: -1 tvg-id="6059" group-title="taiwan", 三立台灣台
-http://211.23.114.106:8521/http/60.251.39.91:8081/hls/65/807/ch20.m3u8
+http://easy_001.ztpfuoodzsthwn.xyz:8888/mylive/103/333290/index.m3u8
 #EXTINF: -1 tvg-id="6048" group-title="taiwan", 三立都會台
-http://211.23.114.106:8522/http/60.251.39.91:8081/hls/65/807/ch19.m3u8
+http://easy_001.ztpfuoodzsthwn.xyz:8888/mylive/103/333300/index.m3u8
 #EXTINF: -1 tvg-id="6027" group-title="taiwan", 大愛一臺
-http://211.23.114.106:8507/http/61.221.81.94:8088/hls/73/815/ch52.m3u8
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/MIqUplvSRWA
 #EXTINF: -1 tvg-id="6142" group-title="taiwan", 大愛二臺
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UClrEYreVkBee7ZQYei_6Jqg/live
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/DTNkEm6jaqQ
 #EXTINF: -1 tvg-id="6121" group-title="taiwan", 華藏衛視
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCgFr9QSua--Cxx658iJqIcQ/live
 #EXTINF: -1 tvg-id="1" group-title="cctv", CCTV1综合
