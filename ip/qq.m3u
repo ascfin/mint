@@ -35,11 +35,17 @@ http://30822575.russtv.net/iptv/YS896AMA7E2K8P/4003/index.m3u8
 https://p.ggiptv.com/v/4k.m3u8
 #EXTINF: -1 group-title="uhd", VTC13 4K
 http://vcdn1.vtc.gov.vn:1935/m_4k/smil:4k.smil/chunklist_w1787030890_b6096000_sleng.m3u8
-#EXTINF: -1 group-title="uhd", NBA TV
-http://84.22.33.214:80/nbatv/index.m3u8
+#EXTINF: -1 group-title="uhd", NBA TV HD
+http://ipalytvsuda.russtv.net/iptv/S3ZDD8GRPVNTPV/7226/index.m3u8
 #EXTINF: -1 tvg-id="7215" group-title="uhd", EUROSPORT 4K
 http://30822575.russtv.net/iptv/YS896AMA7E2K8P/4004/index.m3u8
-#EXTINF: -1 group-title="uhd", Mezzo Live HD orig
+#EXTINF: -1 tvg-id="7215" group-title="uhd", EUROSPORT 1
+http://213.151.233.20:8000/dna-6069-tv-pc/hls/4000v105.m3u8
+#EXTINF: -1 group-title="uhd", Eurosport 1 HD
+http://30822575.russtv.net/iptv/YS896AMA7E2K8P/5075/index.m3u8
+#EXTINF: -1 group-title="uhd", Eurosport 2 North-East HD
+http://30822575.russtv.net/iptv/YS896AMA7E2K8P/5076/index.m3u8
+#EXTINF: -1 group-title="uhd", Mezzo Live HD
 http://30822575.russtv.net/iptv/YS896AMA7E2K8P/9014/index.m3u8
 #EXTINF: -1 group-title="uhd", LIBERTY BBC
 http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/15108/index.m3u8
@@ -65,7 +71,7 @@ http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
 https://ft-ifood-roku.amagi.tv/playlist1080p.m3u8
 #EXTINF: -1 group-title="food", bon appétit
 https://bonappetit-samsung.amagi.tv/playlist.m3u8
-#EXTINF: -1 tvg-id="6158" group-title="food", food network
+#EXTINF: -1 group-title="food", food network
 http://30822575.russtv.net/iptv/YS896AMA7E2K8P/10026/index.m3u8
 #EXTINF: -1 group-title="food", asian food network
 https://livecdn.fptplay.net/hda1/afchd_vhls.smil/chunklist_b5000000.m3u8
@@ -77,7 +83,7 @@ http://30822575.russtv.net/iptv/YS896AMA7E2K8P/10022/index.m3u8
 https://livecdn.fptplay.net/hda2/bbcearth_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF: -1 tvg-id="6039" group-title="discovery", animal planet HD
 http://30822575.russtv.net/iptv/YS896AMA7E2K8P/9016/index.m3u8
-#EXTINF: -1 group-title="discovery", Discovery HD
+#EXTINF: -1 tvg-id="6037" group-title="discovery", Discovery HD
 http://30822575.russtv.net/iptv/YS896AMA7E2K8P/9011/index.m3u8
 #EXTINF: -1 tvg-id="6166" group-title="discovery", Discovery asia
 https://livecdn.fptplay.net/hda2/discoveryasia_vhls.smil/chunklist_b5000000.m3u8
@@ -143,12 +149,6 @@ http://livetv.dnsfor.me:80/channel.6.m3u8
 http://livetv.dnsfor.me:80/channel.4.m3u8
 #EXTINF: -1 group-title="now", now SPORTS PRIME
 http://livetv.dnsfor.me:80/channel.12.m3u8
-#EXTINF: -1 tvg-id="7215" group-title="now", EUROSPORT 1
-http://213.151.233.20:8000/dna-6069-tv-pc/hls/4000v105.m3u8
-#EXTINF: -1 group-title="now", Eurosport 1 HD
-http://30822575.russtv.net/iptv/YS896AMA7E2K8P/5075/index.m3u8
-#EXTINF: -1 group-title="now", Eurosport 2 North-East HD
-http://30822575.russtv.net/iptv/YS896AMA7E2K8P/5076/index.m3u8
 #EXTINF: -1 group-title="japan", 日本天気予报
 https://movie.mcas.jp/mcas/smil:wn1.smil/chunklist.m3u8
 #EXTINF: -1 tvg-id="331" group-title="japan", NHK WORLD-JAPAN
