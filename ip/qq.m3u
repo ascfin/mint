@@ -1,9 +1,7 @@
 #EXTM3U 
-#EXTINF: -1 tvg-id="7249" group-title="uhd", CCTV16奥林匹克
-http://39.136.66.40/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226283/1/index.m3u8?fmt=ts2hls
 #EXTINF: -1 tvg-id="6140" group-title="uhd", Bloomberg UHD
 https://bloomberg-bloombergtv-1.samsung.wurl.com/manifest/eb23b6661b4b9b51df70e2df164f9e3a.m3u8
-#EXTINF: -1 tvg-id="701" group-title="uhd", FTV UHD
+#EXTINF: -1 group-title="uhd", FTV UHD
 https://fash2043.cloudycdn.services/slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 #EXTINF: -1 group-title="uhd", SOCHI LIVE HD
 http://sochi.camera:8080/cam_359/tracks-v1a1/index.m3u8
@@ -33,11 +31,13 @@ http://30822575.russtv.net/iptv/YS896AMA7E2K8P/4002/index.m3u8
 http://30822575.russtv.net/iptv/YS896AMA7E2K8P/4003/index.m3u8
 #EXTINF: -1 tvg-id="106" group-title="uhd", CCTV4K
 https://p.ggiptv.com/v/4k.m3u8
+#EXTINF: -1 tvg-id="7249" group-title="uhd", CCTV16奥林匹克
+http://39.136.66.40/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226283/1/index.m3u8?fmt=ts2hls
 #EXTINF: -1 tvg-id="7215" group-title="uhd", EUROSPORT 4K
 http://30822575.russtv.net/iptv/YS896AMA7E2K8P/4004/index.m3u8
-#EXTINF: -1 tvg-id="7215" group-title="uhd", EUROSPORT 1
+#EXTINF: -1 group-title="uhd", EUROSPORT 1
 http://213.151.233.20:8000/dna-6069-tv-pc/hls/4000v105.m3u8
-#EXTINF: -1 tvg-id="7215" group-title="uhd", EUROSPORT 1 HD
+#EXTINF: -1 group-title="uhd", EUROSPORT 1 HD
 http://30822575.russtv.net/iptv/YS896AMA7E2K8P/5075/index.m3u8
 #EXTINF: -1 group-title="uhd", EUROSPORT 2 North-East HD
 http://30822575.russtv.net/iptv/YS896AMA7E2K8P/5076/index.m3u8
@@ -45,7 +45,7 @@ http://30822575.russtv.net/iptv/YS896AMA7E2K8P/5076/index.m3u8
 http://30822575.russtv.net/iptv/YS896AMA7E2K8P/5078/index.m3u8
 #EXTINF: -1 group-title="uhd", sky sports football
 http://30822575.russtv.net/iptv/YS896AMA7E2K8P/7336/index.m3u8
-#EXTINF: -1 group-title="uhd", sky sports premier league
+#EXTINF: -1 group-title="uhd", sky sports Premier League
 http://30822575.russtv.net/iptv/YS896AMA7E2K8P/7335/index.m3u8
 #EXTINF: -1 group-title="uhd", LIBERTY BBC
 http://30822575.russtv.net/iptv/YS896AMA7E2K8P/15108/index.m3u8
@@ -57,7 +57,7 @@ http://30822575.russtv.net/iptv/YS896AMA7E2K8P/18051/index.m3u8
 http://vcdn1.vtc.gov.vn:1935/m_4k/smil:4k.smil/chunklist_w1787030890_b6096000_sleng.m3u8
 #EXTINF: -1 group-title="fashion", WORLD FASHION CHANNEL
 https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist_hdhigh.m3u8
-#EXTINF: -1 tvg-id="7151" group-title="fashion", FL
+#EXTINF: -1 group-title="fashion", FL
 http://30822575.russtv.net/iptv/YS896AMA7E2K8P/10019/index.m3u8
 #EXTINF: -1 group-title="fashion", HD FASHION & LIFESTYLE
 http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
@@ -77,13 +77,13 @@ https://livecdn.fptplay.net/hda1/afchd_vhls.smil/chunklist_b5000000.m3u8
 http://30822575.russtv.net/iptv/YS896AMA7E2K8P/10023/index.m3u8
 #EXTINF: -1 group-title="discovery", NATIONAL GEOGRAPHIC WILD HD
 http://30822575.russtv.net/iptv/YS896AMA7E2K8P/10022/index.m3u8
-#EXTINF: -1 tvg-id="6189" group-title="discovery", BBC earth
+#EXTINF: -1 group-title="discovery", BBC earth
 https://livecdn.fptplay.net/hda2/bbcearth_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF: -1 group-title="discovery", animal planet HD
 http://30822575.russtv.net/iptv/YS896AMA7E2K8P/9016/index.m3u8
 #EXTINF: -1 group-title="discovery", Discovery HD
 http://30822575.russtv.net/iptv/YS896AMA7E2K8P/9011/index.m3u8
-#EXTINF: -1 tvg-id="6166" group-title="discovery", Discovery asia
+#EXTINF: -1 group-title="discovery", Discovery asia
 https://livecdn.fptplay.net/hda2/discoveryasia_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF: -1 group-title="discovery", Discovery Science
 http://30822575.russtv.net/iptv/YS896AMA7E2K8P/9326/index.m3u8
@@ -193,10 +193,6 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/
 https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/master.m3u8
 #EXTINF: -1 tvg-id="730" group-title="global", DW
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
-#EXTINF: -1 group-title="global", VOA
-https://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/master.m3u8
-#EXTINF: -1 group-title="global", VOA衛視
-https://voa-lh.akamaihd.net/i/voa_mpls_tvmc8@326847/master.m3u8
 #EXTINF: -1 tvg-id="734" group-title="global", France 24
 http://static.france24.com:80/live/F24_EN_HI_HLS/live_tv.m3u8
 #EXTINF: -1 group-title="global", GB News
@@ -225,6 +221,10 @@ http://mcotdigital-pnnouc.cdn.byteark.com/mcothd1080p_edge/smil:mcothd1080p.smil
 http://iptv.tvfix.org/hls/cgtnhd.m3u8
 #EXTINF: -1 tvg-id="891" group-title="global", CGTN纪录
 http://iptv.tvfix.org/hls/cgtndochd.m3u8
+#EXTINF: -1 group-title="global", VOA
+https://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/master.m3u8
+#EXTINF: -1 group-title="global", VOA衛視
+https://voa-lh.akamaihd.net/i/voa_mpls_tvmc8@326847/master.m3u8
 #EXTINF: -1 group-title="dubai", DUBAI SAMA
 https://dmieigthvll.cdn.mgmlcdn.com/samadubaiht/smil:samadubai.stream.smil/chunklist_b1600000.m3u8
 #EXTINF: -1 group-title="dubai", DUBAI ONE
