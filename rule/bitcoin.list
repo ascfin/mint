@@ -2,6 +2,16 @@
 USER-AGENT,Binance*
 DOMAIN-SUFFIX,binance.com
 
-# global bittrex
+# bittrex global
 USER-AGENT,Bittrex*
 DOMAIN-SUFFIX,bittrex.com
+
+# ftx
+USER-AGENT,FTX*
+DOMAIN-SUFFIX,ftx.com
+
+# gate
+DOMAIN-SUFFIX,gate.io
+
+# mexc
+DOMAIN-SUFFIX,mexc.com
