@@ -1,8 +1,13 @@
 # apple news maps
-DOMAIN-SUFFIX,ls.apple.com
 USER-AGENT,AppleNews*
 USER-AGENT,News*
-DOMAIN,apple.comscoreresearch.com
+DOMAIN-SUFFIX,ls.apple.com
+DOMAIN-SUFFIX,news-edge.apple.com
+DOMAIN-SUFFIX,news-events.apple.com
+DOMAIN-SUFFIX,apple.comscoreresearch.com
+
+# news audio
+URL-REGEX,^https?:\/\/news-assets\.apple\.com\/(audio-narrative|podcast\/audio)\/.*
 
 # apple tv
 DOMAIN,np-edge.itunes.apple.com
@@ -13,9 +18,15 @@ DOMAIN-SUFFIX,tv.apple.com
 USER-AGENT,Podcasts*
 
 # dictionary
+# spotlight
 DOMAIN,lookup-api.apple.com
+DOMAIN,lookup-api.apple.com.edgekey.net
+DOMAIN,e16991.b.akamaiedge.net
 PROCESS-NAME,Dictionary
 PROCESS-NAME,LookupViewService
+
+# icloud
+DOMAIN-SUFFIX,gateway.icloud.com
 
 # stocks
 USER-AGENT,Stocks*
