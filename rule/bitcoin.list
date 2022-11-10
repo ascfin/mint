@@ -1,13 +1,11 @@
 # binance
+USER-AGENT,Binance*
 DOMAIN-SUFFIX,binance.com
 DOMAIN-SUFFIX,binance.me
 DOMAIN-SUFFIX,binance.im
 DOMAIN-SUFFIX,binancecnt.com
 DOMAIN-SUFFIX,bnbstatic.com
 DOMAIN-SUFFIX,bntrace.com
-USER-AGENT,Binance*
-PROCESS-NAME,Binance*
-
 
 # bittrex global
 USER-AGENT,Bittrex*
