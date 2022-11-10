@@ -1,18 +1,22 @@
 # binance
-USER-AGENT,Binance*
 DOMAIN-SUFFIX,binance.com
 DOMAIN-SUFFIX,binance.me
 DOMAIN-SUFFIX,binance.im
+DOMAIN-SUFFIX,binance.cloud
 DOMAIN-SUFFIX,binancecnt.com
 DOMAIN-SUFFIX,bnbstatic.com
 DOMAIN-SUFFIX,bntrace.com
+DOMAIN-SUFFIX,api.saasexch.cc
+DOMAIN-SUFFIX,api.saasexch.com
+DOMAIN-SUFFIX,api3.siftscience.com
+DOMAIN-SUFFIX,online-metrix.net
+DOMAIN-SUFFIX,riskified.com
 
 # bittrex global
 USER-AGENT,Bittrex*
 DOMAIN-SUFFIX,bittrex.com
 
 # ftx
-USER-AGENT,FTX*
 DOMAIN-SUFFIX,ftx.com
 
 # gate
