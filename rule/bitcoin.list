@@ -17,8 +17,9 @@ DOMAIN-SUFFIX,riskified.com
 USER-AGENT,Bittrex*
 DOMAIN-SUFFIX,bittrex.com
 
-# ftx
-DOMAIN-SUFFIX,ftx.com
+# bitget
+DOMAIN-SUFFIX,bitget.com
+DOMAIN-SUFFIX,bitgetimg.com
 
 # gate
 DOMAIN-SUFFIX,gate.io
