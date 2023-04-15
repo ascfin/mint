@@ -22,8 +22,17 @@ DOMAIN-SUFFIX,bitget.com
 DOMAIN-SUFFIX,bitget.site
 DOMAIN-SUFFIX,bitgetimg.com
 
+# bybit
+DOMAIN-SUFFIX,bybit.com
+
+# okex
+DOMAIN-SUFFIX,okex.com
+
 # gate
 DOMAIN-SUFFIX,gate.io
 
 # mexc
 DOMAIN-SUFFIX,mexc.com
+
+# kucoin
+DOMAIN-SUFFIX,kucoin.com
