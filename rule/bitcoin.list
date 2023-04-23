@@ -13,6 +13,16 @@ DOMAIN-SUFFIX,api3.siftscience.com
 DOMAIN-SUFFIX,online-metrix.net
 DOMAIN-SUFFIX,riskified.com
 
+# okx
+USER-AGENT,OKEx*
+DOMAIN-SUFFIX,okx.com
+
+# mexc global
+DOMAIN-SUFFIX,mexc.com
+
+# gate.io
+DOMAIN-SUFFIX,gate.io
+
 # bittrex global
 USER-AGENT,Bittrex*
 DOMAIN-SUFFIX,bittrex.com
@@ -30,15 +40,3 @@ DOMAIN-SUFFIX,bybit-global.com
 DOMAIN-SUFFIX,byd3c3.com
 DOMAIN-SUFFIX,bybit-aws.com.com
 
-# okex
-USER-AGENT,OKEx*
-DOMAIN-SUFFIX,okx.com
-
-# gate
-DOMAIN-SUFFIX,gate.io
-
-# mexc
-DOMAIN-SUFFIX,mexc.com
-
-# kucoin
-DOMAIN-SUFFIX,kucoin.com
