@@ -20,6 +20,9 @@ DOMAIN-SUFFIX,okx.com
 # mexc global
 DOMAIN-SUFFIX,mexc.com
 
+# kucoin
+DOMAIN-SUFFIX,kucoin.com
+
 # gate.io
 DOMAIN-SUFFIX,gate.io
 
