@@ -21,7 +21,12 @@ DOMAIN-SUFFIX,okx.com
 DOMAIN-SUFFIX,mexc.com
 
 # kucoin
+DOMAIN-SUFFIX,forter.com
 DOMAIN-SUFFIX,kucoin.com
+DOMAIN-SUFFIX,kucoin.plus
+DOMAIN-SUFFIX,aurorapush.cc
+DOMAIN-SUFFIX,appsflyer.com
+DOMAIN-SUFFIX,xcoinsystem.com
 
 # gate.io
 DOMAIN-SUFFIX,gate.io
