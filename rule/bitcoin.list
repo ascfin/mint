@@ -30,6 +30,11 @@ DOMAIN-SUFFIX,xcoinsystem.com
 
 # gate.io
 DOMAIN-SUFFIX,gate.io
+DOMAIN-KEYWORD,gateio
+DOMAIN-KEYWORD,gateex
+DOMAIN-SUFFIX,gateimg.com
+DOMAIN-SUFFIX,gaterelay.com
+DOMAIN-SUFFIX,gatedata.org
 
 # bittrex global
 USER-AGENT,Bittrex*
@@ -48,3 +53,6 @@ DOMAIN-SUFFIX,bybit-global.com
 DOMAIN-SUFFIX,byd3c3.com
 DOMAIN-SUFFIX,bybit-aws.com.com
 
+# swap
+DOMAIN-SUFFIX,uniswap.org
+DOMAIN-SUFFIX,pancakeswap.com
