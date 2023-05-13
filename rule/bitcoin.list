@@ -55,5 +55,7 @@ DOMAIN-SUFFIX,bybit-aws.com.com
 
 # swap
 DOMAIN-SUFFIX,cetus.zone
+DOMAIN-SUFFIX,daomaker.com
+DOMAIN-SUFFIX,turbos.finance
 DOMAIN-SUFFIX,uniswap.org
 DOMAIN-SUFFIX,pancakeswap.com
