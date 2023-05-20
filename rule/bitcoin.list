@@ -53,6 +53,9 @@ DOMAIN-SUFFIX,bybit-global.com
 DOMAIN-SUFFIX,byd3c3.com
 DOMAIN-SUFFIX,bybit-aws.com.com
 
+# nft
+DOMAIN-SUFFIX,bluemove.net
+
 # swap
 DOMAIN-SUFFIX,cetus.zone
 DOMAIN-SUFFIX,daomaker.com
