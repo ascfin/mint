@@ -41,12 +41,10 @@ DOMAIN-SUFFIX,polygon.technology
 DOMAIN-SUFFIX,polygonscan.com
 
 # swap
-DOMAIN-SUFFIX,tether.to
 DOMAIN-SUFFIX,uniswap.org
 DOMAIN-SUFFIX,pancakeswap.com
 
 # ido
-DOMAIN-SUFFIX,rns.id
 DOMAIN-SUFFIX,daomaker.com
 
 # nft
@@ -67,8 +65,6 @@ DOMAIN-SUFFIX,clutchy.io
 # meme
 DOMAIN-SUFFIX,dextools.io
 DOMAIN-SUFFIX,dexscreener.com
-DOMAIN-SUFFIX,debank.com
-DOMAIN-SUFFIX,revoke.cash
 
 # binance
 DOMAIN-SUFFIX,binance.com
