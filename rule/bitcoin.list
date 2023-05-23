@@ -62,9 +62,10 @@ DOMAIN-SUFFIX,bluemove.net
 DOMAIN-SUFFIX,souffl3.com
 DOMAIN-SUFFIX,clutchy.io
 
-# meme
+# dex
 DOMAIN-SUFFIX,dextools.io
 DOMAIN-SUFFIX,dexscreener.com
+DOMAIN-SUFFIX,gmx.io
 
 # binance
 DOMAIN-SUFFIX,binance.com
