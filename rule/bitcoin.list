@@ -17,6 +17,10 @@ DOMAIN-SUFFIX,riskified.com
 USER-AGENT,OKEx*
 DOMAIN-SUFFIX,okx.com
 
+# pool
+DOMAIN-SUFFIX,btc.com
+DOMAIN-SUFFIX,f2pool.com
+
 # mexc global
 DOMAIN-SUFFIX,mexc.com
 
