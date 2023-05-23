@@ -1,5 +1,79 @@
+# api
+DOMAIN-SUFFIX,branch.io
+DOMAIN-SUFFIX,codefi.network
+DOMAIN-SUFFIX,coingecko.com
+DOMAIN-SUFFIX,cryptocompare.com
+DOMAIN-SUFFIX,github.io
+DOMAIN-SUFFIX,gopluslabs.io
+DOMAIN-SUFFIX,infura.io
+DOMAIN-SUFFIX,mixpanel.com
+DOMAIN-SUFFIX,seadn.io
+DOMAIN-SUFFIX,sentry.io
+DOMAIN-SUFFIX,walletconnect.org
+
+# btc
+DOMAIN-SUFFIX,bitcoin.org
+DOMAIN-SUFFIX,unisat.io
+DOMAIN-SUFFIX,ordinalswallet.com
+
+# pool
+DOMAIN-SUFFIX,btc.com
+DOMAIN-SUFFIX,f2pool.com
+
+# eth
+DOMAIN-KEYWORD,ipfs
+DOMAIN-KEYWORD,metamask
+DOMAIN-SUFFIX,ethereum.org
+DOMAIN-SUFFIX,etherscan.io
+DOMAIN-SUFFIX,ethernodes.org
+DOMAIN-SUFFIX,ethgasstation.info
+DOMAIN-SUFFIX,arbitrum.io
+DOMAIN-SUFFIX,arbiscan.io
+DOMAIN-SUFFIX,optimism.io
+DOMAIN-SUFFIX,zksync.io
+DOMAIN-SUFFIX,zkscan.io
+DOMAIN-SUFFIX,chainlist.org
+DOMAIN-SUFFIX,defillama.com
+DOMAIN-SUFFIX,token.unlocks.app
+
+# matic
+DOMAIN-SUFFIX,polygon.technology
+DOMAIN-SUFFIX,polygonscan.com
+
+# swap
+DOMAIN-SUFFIX,tether.to
+DOMAIN-SUFFIX,uniswap.org
+DOMAIN-SUFFIX,pancakeswap.com
+
+# ido
+DOMAIN-SUFFIX,rns.id
+DOMAIN-SUFFIX,coinlist.co
+DOMAIN-SUFFIX,daomaker.com
+
+# nft
+DOMAIN-SUFFIX,blur.io
+DOMAIN-SUFFIX,mint.fun
+DOMAIN-SUFFIX,nftscan.com
+DOMAIN-SUFFIX,nftgo.io
+DOMAIN-SUFFIX,opensea.io
+
+# sui
+DOMAIN-SUFFIX,sui.io
+DOMAIN-SUFFIX,cetus.zone
+DOMAIN-SUFFIX,turbos.finance
+DOMAIN-SUFFIX,bluemove.net
+DOMAIN-SUFFIX,souffl3.com
+DOMAIN-SUFFIX,clutchy.io
+
+# meme
+DOMAIN-SUFFIX,dextools.io
+DOMAIN-SUFFIX,dexscreener.com
+DOMAIN-SUFFIX,debank.com
+DOMAIN-SUFFIX,revoke.cash
+
 # binance
 DOMAIN-SUFFIX,binance.com
+DOMAIN-SUFFIX,binance.org
 DOMAIN-SUFFIX,binance.info
 DOMAIN-SUFFIX,binance.me
 DOMAIN-SUFFIX,binance.im
@@ -17,32 +91,11 @@ DOMAIN-SUFFIX,riskified.com
 USER-AGENT,OKEx*
 DOMAIN-SUFFIX,okx.com
 
-# pool
-DOMAIN-SUFFIX,btc.com
-DOMAIN-SUFFIX,f2pool.com
-
-# mexc global
+# mexc 
 DOMAIN-SUFFIX,mexc.com
 
-# kucoin
-DOMAIN-SUFFIX,forter.com
-DOMAIN-SUFFIX,kucoin.com
-DOMAIN-SUFFIX,kucoin.plus
-DOMAIN-SUFFIX,aurorapush.cc
-DOMAIN-SUFFIX,appsflyer.com
-DOMAIN-SUFFIX,xcoinsystem.com
-
-# gate.io
-DOMAIN-SUFFIX,gate.io
-DOMAIN-KEYWORD,gateio
-DOMAIN-KEYWORD,gateex
-DOMAIN-SUFFIX,gateimg.com
-DOMAIN-SUFFIX,gaterelay.com
-DOMAIN-SUFFIX,gatedata.org
-
-# bittrex global
-USER-AGENT,Bittrex*
-DOMAIN-SUFFIX,bittrex.com
+# pionex
+DOMAIN-SUFFIX,pionex.com
 
 # bitget
 DOMAIN-SUFFIX,bitget.com
@@ -57,12 +110,22 @@ DOMAIN-SUFFIX,bybit-global.com
 DOMAIN-SUFFIX,byd3c3.com
 DOMAIN-SUFFIX,bybit-aws.com.com
 
-# nft
-DOMAIN-SUFFIX,bluemove.net
+# bittrex global
+USER-AGENT,Bittrex*
+DOMAIN-SUFFIX,bittrex.com
 
-# swap
-DOMAIN-SUFFIX,cetus.zone
-DOMAIN-SUFFIX,daomaker.com
-DOMAIN-SUFFIX,turbos.finance
-DOMAIN-SUFFIX,uniswap.org
-DOMAIN-SUFFIX,pancakeswap.com
+# gate.io
+DOMAIN-KEYWORD,gateio
+DOMAIN-KEYWORD,gateex
+DOMAIN-SUFFIX,gate.io
+DOMAIN-SUFFIX,gateimg.com
+DOMAIN-SUFFIX,gaterelay.com
+DOMAIN-SUFFIX,gatedata.org
+
+# kucoin
+DOMAIN-SUFFIX,forter.com
+DOMAIN-SUFFIX,kucoin.com
+DOMAIN-SUFFIX,kucoin.plus
+DOMAIN-SUFFIX,aurorapush.cc
+DOMAIN-SUFFIX,appsflyer.com
+DOMAIN-SUFFIX,xcoinsystem.com
