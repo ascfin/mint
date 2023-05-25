@@ -88,8 +88,8 @@ USER-AGENT,OKEx*
 DOMAIN-SUFFIX,okx.com
 
 # mexc 
-USER-AGENT,MEXC*
 DOMAIN-SUFFIX,mexc.com
+DOMAIN-SUFFIX,mexcsensors.com
 DOMAIN-SUFFIX,365huo.xyz
 
 # pionex
