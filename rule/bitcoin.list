@@ -67,6 +67,9 @@ DOMAIN-SUFFIX,dextools.io
 DOMAIN-SUFFIX,dexscreener.com
 DOMAIN-SUFFIX,gmx.io
 
+# hashkey
+DOMAIN-SUFFIX,hashkey.com
+
 # binance
 DOMAIN-SUFFIX,binance.com
 DOMAIN-SUFFIX,binance.org
