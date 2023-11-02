@@ -99,9 +99,7 @@ DOMAIN-SUFFIX,365huo.xyz
 DOMAIN-SUFFIX,pionex.com
 
 # bitget
-DOMAIN-SUFFIX,bitget.com
-DOMAIN-SUFFIX,bitget.site
-DOMAIN-SUFFIX,bitgetimg.com
+DOMAIN-KEYWORD,bitget
 
 # bybit
 DOMAIN-SUFFIX,bybit.com
