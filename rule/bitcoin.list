@@ -100,6 +100,11 @@ DOMAIN-SUFFIX,pionex.com
 
 # bitget
 DOMAIN-KEYWORD,bitget
+DOMAIN-SUFFIX,bitget.com
+DOMAIN-SUFFIX,bitgetapp.com
+DOMAIN-SUFFIX,bitgetimg.com
+DOMAIN-SUFFIX,appsflyer.com
+DOMAIN-SUFFIX,bgportable.com
 
 # bybit
 DOMAIN-SUFFIX,bybit.com
@@ -126,5 +131,4 @@ DOMAIN-SUFFIX,forter.com
 DOMAIN-SUFFIX,kucoin.com
 DOMAIN-SUFFIX,kucoin.plus
 DOMAIN-SUFFIX,aurorapush.cc
-DOMAIN-SUFFIX,appsflyer.com
 DOMAIN-SUFFIX,xcoinsystem.com
