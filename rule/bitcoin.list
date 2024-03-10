@@ -42,7 +42,7 @@ DOMAIN-SUFFIX,polygonscan.com
 
 # swap
 DOMAIN-SUFFIX,uniswap.org
-DOMAIN-SUFFIX,pancakeswap.com
+DOMAIN-SUFFIX,pancakeswap.finance
 
 # defi
 DOMAIN-SUFFIX,pendle.finance
