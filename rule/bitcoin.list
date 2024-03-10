@@ -117,10 +117,6 @@ DOMAIN-SUFFIX,bybit-global.com
 DOMAIN-SUFFIX,byd3c3.com
 DOMAIN-SUFFIX,bybit-aws.com.com
 
-# bittrex global
-USER-AGENT,Bittrex*
-DOMAIN-SUFFIX,bittrex.com
-
 # gate.io
 DOMAIN-KEYWORD,gateio
 DOMAIN-KEYWORD,gateex
