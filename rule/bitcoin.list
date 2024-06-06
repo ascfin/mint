@@ -115,6 +115,7 @@ DOMAIN-SUFFIX,bgportable.com
 
 # bybit
 DOMAIN-SUFFIX,bybit.com
+DOMAIN-SUFFIX,bybit.org
 DOMAIN-SUFFIX,bybit.cloud
 DOMAIN-SUFFIX,bybitglobal.com
 DOMAIN-SUFFIX,bybit-global.com
@@ -122,7 +123,11 @@ DOMAIN-SUFFIX,bybit.biz
 DOMAIN-SUFFIX,byabcde.com
 DOMAIN-SUFFIX,bycsi.com
 DOMAIN-SUFFIX,byd3c3.com
+DOMAIN-SUFFIX,bybdc6.com
+DOMAIN-SUFFIX,bymj.io
 DOMAIN-SUFFIX,bitverse.zone
+DOMAIN-SUFFIX,ffbbbdc6d3c353211fe2ba39c9f744cd.com
+DOMAIN-SUFFIX,ffe390afd658c19dcbf707e0597b846d.de
 
 # gate.io
 DOMAIN-KEYWORD,gateio
