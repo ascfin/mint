@@ -118,11 +118,12 @@ DOMAIN-SUFFIX,bybit.com
 DOMAIN-SUFFIX,bybit.cloud
 DOMAIN-SUFFIX,bybitglobal.com
 DOMAIN-SUFFIX,bybit-global.com
-DOMAIN-SUFFIX,byd3c3.com
-DOMAIN-SUFFIX,bycsi.com
 DOMAIN-SUFFIX,bybit.biz
+DOMAIN-SUFFIX,byabcde.com
+DOMAIN-SUFFIX,bycsi.com
+DOMAIN-SUFFIX,byd3c3.com
 DOMAIN-SUFFIX,bitverse.zone
-DOMAIN-SUFFIX,bybit-aws.com.com
+DOMAIN-SUFFIX,bybit-aws.com
 
 # gate.io
 DOMAIN-KEYWORD,gateio
