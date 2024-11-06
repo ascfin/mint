@@ -3,3 +3,10 @@ USER-AGENT,PayPal*
 DOMAIN-KEYWORD,paypal
 DOMAIN-SUFFIX,paypal.com
 DOMAIN-SUFFIX,paypalobjects.com
+
+# n26
+USER-AGENT,N26*
+DOMAIN-SUFFIX,n26.com
+DOMAIN-SUFFIX,tech26.de
+DOMAIN-SUFFIX,number26.de
+DOMAIN-SUFFIX,marketingcloudapis.com
